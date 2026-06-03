@@ -1,10 +1,10 @@
-# Coffee Rig
+# Coffee Rigs
 
-Coffee Rig helps home baristas choose grinders, scales, brewers, and espresso accessories without chasing cafe-level complexity.
+Coffee Rigs helps home baristas choose grinders, scales, brewers, and espresso accessories without chasing cafe-level complexity.
 
 Important URLs:
-- Home: https://www.coffeerig.com/
-- Guides: https://www.coffeerig.com/guides/
-- Content calendar: https://www.coffeerig.com/content-calendar/
+- Home: https://www.coffeerigs.com/
+- Guides: https://www.coffeerigs.com/guides/
+- Content calendar: https://www.coffeerigs.com/content-calendar/
 
 Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases.

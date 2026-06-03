@@ -4,7 +4,7 @@ import { loadEnv } from "./lib/env.mjs";
 
 loadEnv(".env");
 
-const siteId = "coffee_rig";
+const siteId = "coffee_rigs";
 const outDir = path.join(process.cwd(), "reports");
 const guidesDir = path.join(process.cwd(), "guides");
 
@@ -16,7 +16,7 @@ const guideCount = fs
   .length;
 
 const report = [
-  "# Coffee Rig Weekly Affiliate Pulse",
+  "# Coffee Rigs Weekly Affiliate Pulse",
   "",
   `Generated: ${new Date().toISOString()}`,
   "",

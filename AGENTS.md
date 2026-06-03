@@ -1,4 +1,4 @@
-# Coffee Rig Agent Guide
+# Coffee Rigs Agent Guide
 
 Read this before changing content, affiliate links, schema, automations, or deployment behavior.
 

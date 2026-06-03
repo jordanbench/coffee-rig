@@ -1,6 +1,6 @@
-# Coffee Rig
+# Coffee Rigs
 
-Coffee Rig helps home baristas choose grinders, scales, brewers, and espresso accessories without chasing cafe-level complexity.
+Coffee Rigs helps home baristas choose grinders, scales, brewers, and espresso accessories without chasing cafe-level complexity.
 
 ## MVP
 
@@ -22,6 +22,6 @@ npm run send:admin-pulse
 
 ## Domain
 
-Intended production host: `https://www.coffeerig.com`.
+Intended production host: `https://www.coffeerigs.com`.
 
 After buying the domain, point DNS to Vercel and update `PUBLIC_SITE_URL` / `PUBLIC_BASE_URL` if needed.

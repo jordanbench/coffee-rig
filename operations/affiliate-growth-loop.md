@@ -1,4 +1,4 @@
-# Coffee Rig Operating Plan
+# Coffee Rigs Operating Plan
 
 ## SEO Cadence
 

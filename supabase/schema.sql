@@ -1,4 +1,4 @@
--- Shared schema for Coffee Rig. Safe to run once for all three affiliate sites.
+-- Shared schema for Coffee Rigs. Safe to run once for all three affiliate sites.
 create table if not exists public.affiliate_products (
   site_id text not null,
   asin text not null,
