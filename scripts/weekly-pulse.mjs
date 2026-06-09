@@ -17,6 +17,13 @@ const guidePages = fs
   .filter((entry) => entry.isDirectory() && fs.existsSync(path.join(guidesDir, entry.name, "index.html")))
   .map((entry) => entry.name)
   .sort();
+const liveGuides = guidePages.filter((slug) => slug !== "index");
+const envStatus = {
+  resend: Boolean(process.env.RESEND_API_KEY),
+  supabaseUrl: Boolean(process.env.SUPABASE_URL),
+  supabaseServiceRoleKey: Boolean(process.env.SUPABASE_SERVICE_ROLE_KEY),
+  vercelProjectLink: fs.existsSync(path.join(process.cwd(), ".vercel", "project.json"))
+};
 
 const htmlPages = [];
 function walk(dir) {
@@ -49,10 +56,20 @@ const report = [
   "## Local baseline",
   `- Site ID: ${siteId}`,
   `- Production URL: https://www.coffeerigs.com`,
-  `- Guide count: ${guidePages.length}`,
+  `- Guide count: ${liveGuides.length}`,
   `- Public HTML pages: ${htmlPages.length}`,
   `- Curated ASIN count: ${products.length}`,
   "- Amazon tag: abbeybench-20",
+  "",
+  "## Guides live",
+  ...(liveGuides.length ? liveGuides.map((slug) => `- ${slug}`) : ["- No live guides found."]),
+  "",
+  "## Credential availability",
+  `- Resend API key in .env: ${envStatus.resend ? "yes" : "no"}`,
+  `- Supabase URL in .env: ${envStatus.supabaseUrl ? "yes" : "no"}`,
+  `- Supabase service role key in .env: ${envStatus.supabaseServiceRoleKey ? "yes" : "no"}`,
+  `- Supabase credentials available: ${envStatus.supabaseUrl && envStatus.supabaseServiceRoleKey ? "yes" : "no"}`,
+  `- Vercel project linkage available locally: ${envStatus.vercelProjectLink ? "yes" : "no"}`,
   "",
   "## Latest changed pages",
   ...(latestChanged.length ? latestChanged.map((file) => `- ${file}`) : ["- No git changes detected in the last commit range."]),
@@ -60,7 +77,7 @@ const report = [
   "## Next recommended SEO action",
   "- Expand the grinder and compact espresso clusters, then watch which guide earns the first outbound Amazon click.",
   "",
-  "## Known blockers",
+  "## Recent blockers",
   "- Search Console metrics are not included until GSC is configured for this production domain.",
   "- Do not add Amazon prices or availability without an approved Amazon data workflow.",
 ].join("\n");
