@@ -13,7 +13,7 @@ Coffee Rigs helps home baristas choose grinders, scales, brewers, and espresso a
 
 ## Current Public Pages
 
-- `/guides/best-espresso-grinders-under-200/` - Best Budget Espresso Grinders for Home Baristas
+- `/guides/best-espresso-grinders-under-200/` - Best Budget Espresso Grinders Before Prime Day
 - `/guides/baratza-encore-esp-vs-fellow-opus/` - Baratza Encore ESP vs Fellow Opus
 - `/guides/budget-home-espresso-setup/` - How to Build a Budget Home Espresso Setup
 - `/guides/best-coffee-scale-for-pour-over/` - Best Coffee Scale for Pour Over Before Prime Day
