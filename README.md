@@ -21,7 +21,7 @@ Coffee Rigs helps home baristas choose grinders, scales, brewers, and espresso a
 - `/guides/how-to-choose-your-first-burr-grinder/` - How to Choose Your First Burr Grinder
 - `/guides/best-compact-coffee-makers-small-kitchens/` - Best Compact Coffee Makers for Small Kitchens
 - `/guides/milk-frother-for-oat-milk/` - Best Milk Frother for Oat Milk at Home
-- `/guides/coffee-setup-for-dorm-room/` - Coffee Setup for a Dorm Room or Tiny Apartment
+- `/guides/coffee-setup-for-dorm-room/` - Best Coffee Setup for a Dorm Room or Tiny Apartment
 - `/guides/pour-over-vs-french-press/` - Pour Over vs French Press for Beginners
 - `/guides/best-coffee-gifts-under-50/` - Useful Coffee Gifts for Small Budgets
 - `/guides/coffee-station-maintenance-checklist/` - Coffee Station Maintenance Checklist
