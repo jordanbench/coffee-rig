@@ -43,6 +43,8 @@ function renderAdminPulseHtml({ brand, siteUrl, accent, text }) {
   const baseline = parsed.sections.get("Local baseline") || [];
   const latestChanged = parsed.sections.get("Latest changed pages") || [];
   const nextActions = parsed.sections.get("Next recommended SEO action") || [];
+  const productGrowth = parsed.sections.get("Product catalog growth") || [];
+  const productDiscovery = parsed.sections.get("Product discovery funnel") || [];
   const blockers = parsed.sections.get("Recent blockers") || parsed.sections.get("Known blockers") || [];
   const guideLines = parsed.sections.get("Guides live") || [];
   const credentials = parsed.sections.get("Credential availability") || [];
@@ -77,6 +79,8 @@ function renderAdminPulseHtml({ brand, siteUrl, accent, text }) {
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-spacing:8px;border-collapse:separate;">
                 <tbody>${statCards}</tbody>
               </table>
+              ${renderSection("Product catalog growth", productGrowth, "priority")}
+              ${renderSection("Product discovery funnel", productDiscovery, "priority")}
               ${renderSection("Next recommended SEO action", nextActions, "priority")}
               ${renderSection("Recent blockers", blockers, "warning")}
               ${renderSection("Latest changed pages", latestChanged)}
