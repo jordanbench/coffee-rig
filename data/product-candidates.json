@@ -1,1 +1,442 @@
-[]
+[
+  {
+    "candidateId": "coffee_rigs:B0B1JPPG2L",
+    "siteId": "coffee_rigs",
+    "productName": "Breville the Bambino Espresso Machine",
+    "model": "BES450BSS1BUS1",
+    "variant": "Brushed Stainless Steel, 110-120V US model",
+    "asin": "B0B1JPPG2L",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B1JPPG2L/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact first espresso machine for a small kitchen without buying a machine that quickly becomes the limiting part of the setup",
+    "decisionSlot": "default",
+    "bestFor": "A first-time home espresso buyer who has or will buy an espresso-capable grinder and wants a compact machine with manual milk control",
+    "skipIf": "You want a built-in grinder, automatic milk texturing, simultaneous brewing and steaming, or a highly repairable boiler machine",
+    "mainTradeoff": "Its compact, quick-heating design is convenient, but it still requires a separate espresso grinder and gives the owner limited temperature and hardware customization",
+    "closestAlternative": "Breville Bambino Plus BES500BSS1BUS1 for hands-free milk texturing, or CASABREWS CM5418 for a lower-cost entry point",
+    "editorialThesis": "The regular Bambino is the strongest default for a small first espresso station because it preserves real espresso and manual milk capability in a narrow footprint without charging for automatic milk controls",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0B1JPPG2L",
+        "note": "Verified specification: the exact Amazon listing identifies Breville Bambino BES450BSS in brushed stainless steel and resolves to ASIN B0B1JPPG2L. Listing identity was checked without relying on price or availability claims.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.breville.com/en-us/product/bes450",
+        "note": "Manufacturer claim: Breville identifies the brushed-stainless US variant as model BES450BSS1BUS1 and lists a 6.25 by 13.5 by 12 inch footprint, 54 mm portafilter, manual milk texturing, ThermoJet heating, and PID temperature control.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://assets.breville.com/BES450/BES450_USCM_IB_M26_LR.pdf",
+        "note": "Verified specification: the current US BES450 instruction book documents setup, extraction, steaming, cleaning, descaling, and appliance safety warnings for the model family.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/home/coffee-makers/sage-breville-bambino-review",
+        "note": "Independent test: a December 2025 hands-on review found the BES450 compact and capable, praised its PID-controlled extraction and flexible manual steam wand, and noted that repairability is weaker than traditional boiler machines.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?Manufacturer=Breville",
+        "note": "Official recall check: the CPSC manufacturer query returned Breville recalls but no match for BES450, BES450BSS1BUS1, or this espresso machine as of 2026-07-20. No-match is not a safety certification; the manual warnings still apply.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Verified narrow footprint supports the small-kitchen reader problem",
+      "Includes both single-wall and dual-wall baskets, allowing a beginner path without permanently capping the coffee workflow",
+      "Independent testing supports strong espresso and manual milk performance for the class",
+      "The current model and Amazon ASIN identity agree across Amazon and Breville"
+    ],
+    "failureModes": [
+      "A non-espresso grinder can make the machine feel inconsistent even though the machine itself is capable",
+      "The one-hole manual steam wand requires practice and cannot brew and steam at the same time",
+      "Compact thermoblock construction is less owner-serviceable than traditional single-boiler machines",
+      "Small drip tray and routine steam-wand purging add daily cleanup"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 13,
+      "demandSignal": 5,
+      "commercialValue": 2,
+      "total": 88
+    },
+    "decision": "approve",
+    "decisionReason": "Approve as the default compact first-machine slot. Exact identity is consistent, the full required evidence mix is present, independent testing supports the reader outcome, and its limitations are clear enough to state without overclaiming. Approval assumes the guide also tells readers that an espresso-capable grinder is mandatory.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "coffee_rigs:B07JVD78TT",
+    "siteId": "coffee_rigs",
+    "productName": "Breville the Bambino Plus Espresso Machine",
+    "model": "BES500BSS1BUS1",
+    "variant": "Brushed Stainless Steel, 110-120V US model",
+    "asin": "B07JVD78TT",
+    "affiliateUrl": "https://www.amazon.com/dp/B07JVD78TT/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact first espresso machine for a small kitchen without buying a machine that quickly becomes the limiting part of the setup",
+    "decisionSlot": "upgrade",
+    "bestFor": "A small-kitchen beginner who makes milk drinks often and values repeatable hands-free milk temperature and texture more than manual steam control",
+    "skipIf": "You mainly drink straight espresso, prefer manual milk texturing, need a built-in grinder, or do not value the milk automation enough to justify the step up from the regular Bambino",
+    "mainTradeoff": "The automatic milk system reduces technique burden, but it costs more, gives less direct steam-wand control, and does not remove the need for a capable separate grinder",
+    "closestAlternative": "Breville Bambino BES450BSS1BUS1 for lower cost and manual milk control",
+    "editorialThesis": "The Bambino Plus earns a distinct upgrade slot only for milk-drink households that will use its hands-free texturing; it is not a blanket upgrade for every espresso beginner",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07JVD78TT",
+        "note": "Verified specification: the exact Amazon listing identifies the Breville Bambino Plus BES500BSS in brushed stainless steel and resolves to ASIN B07JVD78TT. No price or availability was recorded.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.breville.com/en-us/product/bes500",
+        "note": "Manufacturer claim: Breville lists a 54 mm portafilter, 64 fl oz reservoir, ThermoJet heating, PID temperature control, three milk temperature settings, three texture settings, and hands-free milk texturing for BES500.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://assets.breville.com/BES500/BES500_USCM_IB_X25_LR.pdf",
+        "note": "Verified specification: the current US BES500 instruction book covers automatic milk texturing, extraction, cleaning cycles, descaling, and model-specific safety warnings.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.techgearlab.com/reviews/kitchen/espresso-machine/breville-bambino-plus",
+        "note": "Independent test: GearLab found the Bambino Plus especially easy for novices and capable of good automatic microfoam, while noting limited steam adjustments, no grinder, and average cleaning ergonomics.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?Manufacturer=Breville",
+        "note": "Official recall check: the CPSC manufacturer query returned Breville recalls but no match for BES500, BES500BSS1BUS1, or this espresso machine as of 2026-07-20. No-match is not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Automatic milk temperature and texture controls solve a distinct beginner workflow problem",
+      "Compact dimensions and large reservoir are well matched to a small but frequently used milk-drink station",
+      "Independent testing supports novice ease of use and adequate espresso extraction",
+      "Exact model and stainless Amazon variant agree across listing and manufacturer sources"
+    ],
+    "failureModes": [
+      "Automatic milk texturing may not justify the added cost for straight-espresso drinkers",
+      "The machine still depends on a separate espresso-capable grinder",
+      "Owners seeking full manual steam control may prefer the regular Bambino",
+      "Milk sensor and purge behavior add drip-tray cleaning and another system to maintain"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 12,
+      "demandSignal": 5,
+      "commercialValue": 2,
+      "total": 84
+    },
+    "decision": "approve",
+    "decisionReason": "Approve only for the upgrade slot defined by frequent milk drinks and lower technique burden. It clears the score and evidence gates, but the editorial recommendation must explain that the regular Bambino is the better fit when automatic milk texturing is not a real need.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "coffee_rigs:B09X3WGJ3R",
+    "siteId": "coffee_rigs",
+    "productName": "CASABREWS CM5418 Espresso Machine",
+    "model": "CM5418",
+    "variant": "Silver, 34 fl oz removable water tank, US listing",
+    "asin": "B09X3WGJ3R",
+    "affiliateUrl": "https://www.amazon.com/dp/B09X3WGJ3R/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact first espresso machine for a small kitchen without buying a machine that quickly becomes the limiting part of the setup",
+    "decisionSlot": "budget",
+    "bestFor": "A price-constrained beginner who wants a very narrow espresso-and-milk machine and accepts slower steaming, lighter-duty construction, and limited long-term ownership evidence",
+    "skipIf": "You make several milk drinks back-to-back, want quiet and stable operation, expect strong parts availability, or want a clear upgrade path beyond pressurized baskets",
+    "mainTradeoff": "It delivers credible extraction and simple controls at a narrow footprint, but independent testing found noticeable vibration, low steam pressure, overheating interruptions, and vague maintenance guidance",
+    "closestAlternative": "Breville Bambino BES450BSS1BUS1 for a stronger overall first-machine recommendation, or De'Longhi Stilosa EC260BK for an established-brand budget alternative with weaker tested extraction",
+    "editorialThesis": "The CM5418 is a promising budget constraint pick, but it should stay on hold until the currently sold same-ASIN hardware revision and its longer-term ownership support are better documented",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09X3WGJ3R",
+        "note": "Verified specification: the exact Amazon listing identifies CASABREWS CM5418 in silver with a 34 fl oz removable tank and resolves to ASIN B09X3WGJ3R. No price or availability was recorded.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.casabrews.com/products/casabrews-20-bar-professional-compact-size-italian-pressure-pump-steam-wand-single-serve-coffee-latte-cappuccino-espresso-machine",
+        "note": "Manufacturer claim: the current CM5418 page describes low-pressure pre-infusion, PID temperature control, pressure gauge, steam wand, and multiple color variants. The page does not expose a revision code that can be tied cleanly to every same-ASIN unit.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/81qGbjNvOAL.pdf",
+        "note": "Verified specification with limitation: the CM5418BC-UL manual documents operation, cooling and overheating behavior, cleaning, descaling, and safety warnings, but its revision identity is not explicit enough to prove that every current silver same-ASIN unit has the latest hardware claims.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.techgearlab.com/reviews/kitchen/espresso-machine/casabrews-cm5418",
+        "note": "Independent test: GearLab measured credible extraction and found the machine compact and easy to operate, while also reporting cup-moving vibration, low steam pressure, post-steam overheating delays, and thin maintenance documentation.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=CM5418",
+        "note": "Official recall check: the CPSC product-name query returned no CM5418 recall as of 2026-07-20. No-match is not a safety certification, and it does not resolve the same-ASIN hardware-revision question.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Exact silver ASIN and CM5418 model identity are verified",
+      "Independent testing found good extraction relative to its class and simple controls",
+      "Very narrow footprint directly serves the small-kitchen constraint",
+      "Pressure gauge and forgiving workflow can help a beginner see when a shot is far outside the intended range"
+    ],
+    "failureModes": [
+      "Vibration can move the cup while a shot is running",
+      "Low steam pressure and overheating protection slow milk-drink sequences",
+      "Lighter-duty materials and vague maintenance guidance reduce ownership confidence",
+      "The current manufacturer page and older revision-labeled manual do not fully resolve which feature set every same-ASIN unit contains"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 9,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. It is a credible budget candidate and scores above the hold threshold, but the current page, manual revision, and same-ASIN listing do not establish a clean revision-level feature identity, while long-term parts and ownership evidence remain thin. Commercial value does not overcome those gaps.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "coffee_rigs:B08C96BG9H",
+    "siteId": "coffee_rigs",
+    "productName": "De'Longhi Stilosa Espresso Machine",
+    "model": "EC260BK",
+    "variant": "Black and stainless, 120V US model",
+    "asin": "B08C96BG9H",
+    "affiliateUrl": "https://www.amazon.com/dp/B08C96BG9H/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact first espresso machine for a small kitchen without buying a machine that quickly becomes the limiting part of the setup",
+    "decisionSlot": "budget",
+    "bestFor": "An espresso-curious buyer whose overriding constraint is initial spend and who accepts pressurized-basket coffee, slower warmup, and basic milk texture",
+    "skipIf": "You want a machine that can grow with an espresso-capable grinder, expect repeatable specialty-coffee extraction, or care about controlled microfoam",
+    "mainTradeoff": "The low entry burden and compact body are real, but independent lab testing found weak extraction, limited basket capacity, slow setup, and poor milk texture relative to stronger first-machine options",
+    "closestAlternative": "CASABREWS CM5418 for stronger tested extraction at the budget end, or Breville Bambino for a more durable recommendation path",
+    "editorialThesis": "The Stilosa is inexpensive and compact, but it does not solve the reader's specialty-coffee problem well enough to occupy the budget slot when independent testing shows the machine itself becomes the limiting component",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B08C96BG9H",
+        "note": "Verified specification: the exact Amazon listing identifies De'Longhi Stilosa EC260BK in black and stainless and resolves to ASIN B08C96BG9H. No price or availability was recorded.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.delonghi.com/en-us/p/stilosa-stilosa-espresso-machine/EC260BK.html",
+        "note": "Manufacturer claim: De'Longhi lists model EC260BK with a compact body, 120V power, 33.8 fl oz tank, stainless boiler, manual milk frother, and two included filter baskets.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.delonghi.com/en-us/s/EC260BK",
+        "note": "Verified specification: the official EC260BK support center provides the US instructions and model-specific safety documentation.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.techgearlab.com/reviews/kitchen/espresso-machine/delonghi-stilosa",
+        "note": "Independent test: GearLab measured low extraction yield, weak and bitter shots, limited basket capacity, slow setup, and poor microfoam, while acknowledging the small footprint and low entry cost.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?Manufacturer=DeLonghi",
+        "note": "Official recall check: the CPSC manufacturer query returned older DeLonghi-branded heater records but no match for EC260BK or the Stilosa espresso machine as of 2026-07-20. No-match is not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Exact model, color, voltage region, and ASIN identity are consistent across Amazon and De'Longhi",
+      "Compact body and simple knob controls reduce counter and interface burden",
+      "Established manufacturer support center and model-specific documentation are available",
+      "Pressurized baskets can tolerate less precise grinding for an espresso-curious buyer"
+    ],
+    "failureModes": [
+      "Independent lab testing found low extraction and thin, bitter espresso",
+      "Small baskets and limited control restrict improvement after the grinder is upgraded",
+      "Milk wand performance and heat-up workflow add friction for frequent latte use",
+      "A low initial cost can become false economy if the reader replaces the machine quickly"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 15,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 7,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 6,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 55
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for this reader problem. Exact identity and documentation are good, but independent testing indicates that extraction, basket capacity, and milk performance are too limiting for a specialty-coffee first-machine recommendation. The cheaper purchase price cannot rescue weak long-term reader fit, and the budget slot is better explored through the held CM5418.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "coffee_rigs:B086H24F5F",
+    "siteId": "coffee_rigs",
+    "productName": "Gaggia Classic Pro Espresso Machine",
+    "model": "RI9380/47",
+    "variant": "Cherry Red, 120V US Amazon listing",
+    "asin": "B086H24F5F",
+    "affiliateUrl": "https://www.amazon.com/dp/B086H24F5F/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact first espresso machine for a small kitchen without buying a machine that quickly becomes the limiting part of the setup",
+    "decisionSlot": "upgrade",
+    "bestFor": "A hands-on owner who values a commercial-size portafilter, traditional controls, serviceability, and learning technique more than fast warmup or beginner automation",
+    "skipIf": "You need a predictable current boiler revision, quick milk-drink workflow, small ownership burden, or an unambiguous first-machine purchase",
+    "mainTradeoff": "The platform offers strong parts and modification potential, but the exact Amazon page conflicts about whether the red RI9380/47 unit is Classic Pro or Classic Evo Pro, and current owner reports do not resolve the delivered boiler revision",
+    "closestAlternative": "Breville Bambino for a clearer beginner workflow, or a retailer-verified Gaggia E24 listing with an explicit brass-boiler production revision",
+    "editorialThesis": "The Gaggia platform could serve an enthusiast upgrade slot, but this exact ASIN must not be recommended while its listing mixes generations and the boiler identity cannot be verified before purchase",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B086H24F5F",
+        "note": "Verified identity with conflict: the exact listing resolves to ASIN B086H24F5F and titles the product Gaggia RI9380/47 Classic Pro in Cherry Red, while manufacturer content on the same page describes the Classic Evo Pro. The exact purchasable generation is therefore not reliable.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.gaggia.com/app/uploads/2023/09/4219-465-07801-MANUAL-GAG.-CLASSIC-2019-RI9380-USA-EN-FR-ES-Rev-00_Classic_Color_Vibes.pdf",
+        "note": "Verified specification with limitation: Gaggia's RI9380 US manual covers operation, temperature management, cleaning, descaling, and safety warnings for the model family, but it does not settle the Amazon unit's boiler generation.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.techgearlab.com/reviews/kitchen/espresso-machine/gaggia-classic-pro",
+        "note": "Independent test: GearLab found good espresso potential and substantial technique requirements, with weaker milk workflow. The review supports the ownership tradeoff but predates the conflicted Evo and E24 boiler revisions.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/gaggiaclassic/comments/1jf143m/looking_for_help_with_gcp_machine/",
+        "note": "Owner-reported pattern, not independently verified: a 2025 RI9380/47 owner reported uncertainty about whether a replacement machine used an uncoated boiler and described black flakes resembling the earlier coated-boiler problem. This is a blocker, not proof that every unit is affected.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?Manufacturer=Gaggia",
+        "note": "Official recall check: the CPSC manufacturer query returned no Gaggia recall as of 2026-07-20. That no-match does not resolve the listing-generation conflict or owner-reported boiler-flake concern and is not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon ASIN, color, and RI9380/47 listing model are recorded",
+      "Traditional controls and a commercial-size portafilter create a meaningful enthusiast path",
+      "The platform has stronger service and modification potential than compact thermoblock machines",
+      "Independent testing supports good espresso potential once technique is learned"
+    ],
+    "failureModes": [
+      "Amazon title and manufacturer content conflict about product generation",
+      "The delivered boiler revision cannot be verified from the ASIN or RI9380/47 suffix alone",
+      "Owner-reported flake patterns remain unresolved for some RI9380/47 units",
+      "Temperature management, slow warmup, and steam workflow are poor fits for a low-friction beginner recommendation"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 17,
+      "evidenceConfidence": 11,
+      "ownershipLongevity": 14,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 5,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 63
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. The platform is differentiated enough to remain a future enthusiast candidate, but this exact ASIN's page mixes Classic Pro and Evo Pro claims, the delivered boiler revision is not verifiable, and current owner reports preserve a safety-adjacent uncertainty. A CPSC no-match cannot cure those blockers.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  }
+]
