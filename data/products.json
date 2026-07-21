@@ -40,5 +40,19 @@
     "positioning": "Core cleaning supply",
     "category": "maintenance",
     "affiliateUrl": "https://www.amazon.com/dp/B00004SPEU/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B0B1JPPG2L",
+    "name": "Breville the Bambino Espresso Machine",
+    "positioning": "Default compact first espresso machine",
+    "category": "espresso-machine",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B1JPPG2L/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B07JVD78TT",
+    "name": "Breville the Bambino Plus Espresso Machine",
+    "positioning": "Milk-drink workflow upgrade",
+    "category": "espresso-machine",
+    "affiliateUrl": "https://www.amazon.com/dp/B07JVD78TT/ref=nosim?tag=abbeybench-20"
   }
 ]

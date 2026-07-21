@@ -79,9 +79,9 @@
     "decision": "approve",
     "decisionReason": "Approve as the default compact first-machine slot. Exact identity is consistent, the full required evidence mix is present, independent testing supports the reader outcome, and its limitations are clear enough to state without overclaiming. Approval assumes the guide also tells readers that an espresso-capable grinder is mandatory.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-07-21",
+      "guidePath": "/guides/budget-home-espresso-setup/"
     },
     "sourceRun": "product-discovery:2026-07-20",
     "researchedAt": "2026-07-20",
@@ -167,9 +167,9 @@
     "decision": "approve",
     "decisionReason": "Approve only for the upgrade slot defined by frequent milk drinks and lower technique burden. It clears the score and evidence gates, but the editorial recommendation must explain that the regular Bambino is the better fit when automatic milk texturing is not a real need.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-07-21",
+      "guidePath": "/guides/budget-home-espresso-setup/"
     },
     "sourceRun": "product-discovery:2026-07-20",
     "researchedAt": "2026-07-20",
