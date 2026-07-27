@@ -438,5 +438,449 @@
     "sourceRun": "product-discovery:2026-07-20",
     "researchedAt": "2026-07-20",
     "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "coffee_rigs:B0CC4Z32F8",
+    "siteId": "coffee_rigs",
+    "productName": "TIMEMORE Chestnut C3S Pro Manual Coffee Grinder",
+    "model": "C3S Pro",
+    "variant": "Black, foldable handle, 20 g model, US listing",
+    "asin": "B0CC4Z32F8",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CC4Z32F8/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a quiet one-cup grinder for a dorm room or tiny apartment that can be stored easily and still produce repeatable pour-over coffee",
+    "decisionSlot": "upgrade",
+    "bestFor": "A one-cup pour-over brewer who shares walls or waking hours, wants an all-metal grinder that stores compactly, and values a faster, cleaner daily workflow over the lowest entry cost",
+    "skipIf": "You routinely grind more than 20 grams at once, need external adjustment, or want fine enough adjustment steps to dial non-pressurized espresso precisely",
+    "mainTradeoff": "The metal body, folding handle, and capable filter-coffee burr set make it a durable compact upgrade, but its 20 gram capacity and 0.0833 mm classic-dial steps limit batch size and serious espresso tuning",
+    "closestAlternative": "1Zpresso Q Air for a lighter and smaller pour-over-first grinder, once the exact black Amazon variant is reconciled with current manufacturer colors",
+    "editorialThesis": "The C3S Pro is the strongest current upgrade candidate for a quiet, storable single-cup setup because its exact black ASIN, official C3-family specification, current manual support, and independent C3S Pro test agree on the filter-coffee use case and its limitations",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CC4Z32F8",
+        "note": "Verified specification: the exact Amazon page identifies TIMEMORE Chestnut C3S Pro model C3S Pro in black with a foldable handle and resolves to ASIN B0CC4Z32F8. Listing identity was checked without recording price or availability.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.timemore.com/collections/coffee-grinder-manual/products/c3-series",
+        "note": "Manufacturer claim: TIMEMORE's current C3s/C3 family page includes black C3s variants, identifies the Pro pull-to-fold handle, lists 20 g capacity for C3 S Pro, and documents the classic dial at 0.0833 mm per click with 12 clicks per rotation.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.timemore.com/pages/download-center",
+        "note": "Verified support source: TIMEMORE's current download center exposes the official multilingual C3 Pro manual and separate ESP manual. The family documentation supports operation and maintenance, while the exact Amazon model string remains the identity source.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.coffeeness.de/timemore-chestnut-c3s-pro-test/",
+        "note": "Independent test: Coffeeness tested the C3S Pro and found strong V60 and filter results, solid all-metal construction, a useful folding handle, and low static, while warning that the classic adjustment steps are too large for precise espresso dialing and capacity is limited.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Chestnut%20C3S%20Pro",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for Chestnut C3S Pro as of 2026-07-27. A no-match is not a safety certification; official handling and cleaning instructions still apply.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact black C3S Pro Amazon identity and canonical ASIN are explicit",
+      "Manual operation removes electric-motor noise from the shared-space workflow",
+      "Official 20 gram capacity matches the intended one-cup use case",
+      "Independent testing supports strong V60 and filter performance",
+      "All-metal body, threaded catch cup, and folding handle support compact storage and lower-mess handling"
+    ],
+    "failureModes": [
+      "Twenty-gram capacity can require a second batch for larger brews",
+      "Internal adjustment is less convenient when switching brew methods",
+      "Classic 0.0833 mm steps are too coarse for precise non-pressurized espresso dialing",
+      "Dense light-roast beans still require manual effort",
+      "A user who will not hand-grind every morning may get more value from a compact electric grinder used at considerate hours"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 13,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 86
+    },
+    "decision": "approve",
+    "decisionReason": "Approve for the durable upgrade slot. The exact black ASIN is explicit, current first-party materials cover the C3 S Pro's capacity, adjustment system, and folding handle, independent testing supports the one-cup filter workflow, and the official recall query found no match. Approval is limited to quiet manual pour-over use and must not imply hands-on Coffee Rigs testing or precise espresso suitability.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "coffee_rigs:B0CJ4YFMQ9",
+    "siteId": "coffee_rigs",
+    "productName": "1Zpresso Q Air Manual Coffee Grinder",
+    "model": "Q Air Black",
+    "variant": "Black polycarbonate-body US Amazon listing",
+    "asin": "B0CJ4YFMQ9",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CJ4YFMQ9/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a quiet one-cup grinder for a dorm room or tiny apartment that can be stored easily and still produce repeatable pour-over coffee",
+    "decisionSlot": "default",
+    "bestFor": "A one-cup pour-over or AeroPress brewer who prioritizes the smallest practical storage footprint, light carry weight, and a quiet manual workflow",
+    "skipIf": "You regularly dose more than 20 grams, strongly prefer an all-metal exterior, want maximum light-roast clarity, or need a fully reconciled current manufacturer color match before purchase",
+    "mainTradeoff": "Its compact body and tested pour-over performance fit the problem unusually well, but the exact black Amazon variant is not among the blue, gray, and purple colors on the current manufacturer page",
+    "closestAlternative": "TIMEMORE Chestnut C3S Pro for a verified black all-metal upgrade with a folding handle",
+    "editorialThesis": "The Q Air could be the best default small-space hand grinder, but the exact black variant should not be approved until 1Zpresso's current product material explicitly recognizes the Amazon color or otherwise maps it to this ASIN",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CJ4YFMQ9",
+        "note": "Verified identity with limitation: the exact Amazon page resolves to ASIN B0CJ4YFMQ9 and identifies model Q Air Black, a black 1Zpresso Q Air. No price or availability was recorded.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://1zpresso.coffee/product/qair/",
+        "note": "Manufacturer claim with conflict: the current Q Air page documents a 15-20 g grounds capacity, compact polycarbonate construction, dual-bearing design, and 30-click adjustment, but lists only blue, gray, and purple colors rather than the Amazon listing's black variant.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://1zpresso.coffee/manual-q-en/",
+        "note": "Verified family instruction: the official Q-series manual covers Q, Q2, and Q Air adjustment, roughly 20 g maximum capacity, tool-free disassembly, brush cleaning, and the warning not to wash or soak the grinder. It does not resolve the black color identity.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://coffeechronicler.com/1zpresso-q-air-review/",
+        "note": "Independent test: The Coffee Chronicler used the Q Air for weeks and found it compact, smooth, and well suited to pour-over and AeroPress, reporting roughly 35 seconds for 15 grams while noting the plastic exterior, short-handle leverage, and a sweeter, heavier cup with less clarity than premium alternatives.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Q%20Air",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for Q Air as of 2026-07-27. A no-match is not a safety certification and does not resolve the color-variant conflict.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon ASIN and Q Air Black model string are explicit",
+      "One-cup capacity and very small body directly fit the dorm and tiny-apartment problem",
+      "Independent testing supports a comfortable daily pour-over workflow and credible cup quality",
+      "Manual operation avoids electric-motor noise",
+      "Official instructions support tool-free brush cleaning and compact ownership"
+    ],
+    "failureModes": [
+      "Current manufacturer colors do not include the exact black Amazon variant",
+      "Short handle provides less leverage than larger manual grinders",
+      "Plastic outer body and catch cup may feel less durable than metal alternatives",
+      "Fifteen-to-twenty-gram capacity is too small for many multi-cup brews",
+      "Cup profile may trade some light-roast clarity for sweetness and body"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 14,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 12,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. The reader fit and independent result are strong enough for a future default slot, but the current manufacturer page excludes black from its listed colors while the exact Amazon model is Q Air Black. The claims-supportable hard gate remains false until that exact variant is reconciled; commercial value cannot override the identity conflict.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "coffee_rigs:B01GPMH590",
+    "siteId": "coffee_rigs",
+    "productName": "Hario Mini-Slim Plus Ceramic Coffee Mill",
+    "model": "MSS-1DTB",
+    "variant": "Black and transparent, 24 g, US listing",
+    "asin": "B01GPMH590",
+    "affiliateUrl": "https://www.amazon.com/dp/B01GPMH590/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a quiet one-cup grinder for a dorm room or tiny apartment that can be stored easily and still produce repeatable pour-over coffee",
+    "decisionSlot": "budget",
+    "bestFor": "A price-constrained one-cup brewer who values low weight, a screw-on catch cup, and compact storage more than steel-burr consistency or fast adjustment",
+    "skipIf": "You want a primary grinder with stronger particle consistency, regularly brew coarse methods, dislike static cleanup, or want an obvious recommendation advantage over newer steel-burr hand grinders",
+    "mainTradeoff": "It is compact, light, washable, and adequate for one-cup pour-over, but the ceramic burrs lose consistency at coarser settings and the plastic catch cup can hold static grounds",
+    "closestAlternative": "TIMEMORE Chestnut C3S Pro for stronger filter performance and all-metal construction, or 1Zpresso Q Air after its exact black variant is reconciled",
+    "editorialThesis": "The Mini-Slim Plus remains a credible compact budget grinder, but it does not add a strong enough current decision advantage over the C3S Pro to justify activation in this guide without clearer budget demand",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01GPMH590",
+        "note": "Verified specification: the exact Amazon page identifies Hario Mini-Slim Plus, manufacturer part number MSS-1DTB, GTIN 04977642707726, and ASIN B01GPMH590. No price or availability was recorded.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://global.hario.com/pdf2019/2019HARIO_GC_COFFEE_EN.pdf",
+        "note": "Verified specification: Hario's official catalog identifies MSS-1DTB at 150 by 72 by 220 mm with a 24 g grounds capacity, two-cup positioning, and a washable grinder.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://global.hario.com/faq/grinder_3_en.pdf",
+        "note": "Verified official support: Hario's Coffee Mill Ceramic Slim MSS-1 FAQ documents assembly for this model family. It supports ownership and cleaning claims but does not establish comparative grind quality.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.coffeeness.de/en/hario-mini-slim-plus-review/",
+        "note": "Independent test: Coffeeness found the exact Mini-Slim Plus compact, rugged, and capable for pour-over and AeroPress, while reporting weaker coarser-grind consistency, slow manual effort with dense beans, limited capacity, and static in the plastic catch cup.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Mini-Slim%20Plus",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for Mini-Slim Plus as of 2026-07-27. A no-match is not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact MSS-1DTB identity agrees between Amazon and Hario's official catalog",
+      "Twenty-four-gram capacity fits a typical one-cup pour-over",
+      "Slim plastic body is light and easy to store",
+      "Screw-on catch cup reduces spill risk in a small space",
+      "Independent testing supports acceptable finer-end pour-over use"
+    ],
+    "failureModes": [
+      "Ceramic burr consistency weakens at coarser settings",
+      "Plastic catch cup can retain grounds through static",
+      "Dense light-roast beans increase manual effort",
+      "Unmarked internal click adjustment requires recounting from zero",
+      "The budget slot overlaps better-supported steel-burr candidates without a proven reader-demand reason"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 11,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. Identity and evidence are sufficient, and the score clears the hold threshold, but this candidate does not currently earn a distinct budget slot beyond low entry burden. Its ceramic-burr consistency and static compromises are material in a daily small-space workflow, and no reader signal establishes that those tradeoffs are preferable to the approved C3S Pro.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "coffee_rigs:B013R3Q7B2",
+    "siteId": "coffee_rigs",
+    "productName": "JavaPresse Manual Stainless Steel Coffee Grinder",
+    "model": "JavaPresse Manual Coffee Grinder",
+    "variant": "Brushed stainless steel, ceramic burr, 18-setting US listing",
+    "asin": "B013R3Q7B2",
+    "affiliateUrl": "https://www.amazon.com/dp/B013R3Q7B2/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a quiet one-cup grinder for a dorm room or tiny apartment that can be stored easily and still produce repeatable pour-over coffee",
+    "decisionSlot": "budget",
+    "bestFor": "An occasional travel or backup grinder user who prioritizes a narrow steel shell and quiet operation over speed, adjustment precision, and daily grind consistency",
+    "skipIf": "You need a fast daily grinder, want repeatable espresso dialing, dislike a wobbly or detachable crank, or can stretch to a stronger steel-burr option",
+    "mainTradeoff": "The narrow body and motor-free operation are easy to store and quiet, but independent testing describes very slow grinding, limited adjustments, weaker ceramic-burr consistency, and awkward retained grounds",
+    "closestAlternative": "Hario Mini-Slim Plus for a more secure crank and screw-on cup, or TIMEMORE Chestnut C3S Pro for a materially stronger daily recommendation",
+    "editorialThesis": "The JavaPresse solves storage and motor noise but introduces too much daily time and consistency burden to recommend for a primary dorm or tiny-apartment grinder",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B013R3Q7B2",
+        "note": "Verified specification: the exact Amazon page identifies model JavaPresse Manual Coffee Grinder in stainless steel with 18 settings and resolves to ASIN B013R3Q7B2. No price or availability was recorded.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.javapresse.com/products/coffee-grinder",
+        "note": "Manufacturer claim: JavaPresse describes a stainless steel body, ceramic conical burr, 15-plus settings, motor-free quiet grinding, and compact travel use. The current manufacturer page says 15-plus settings while Amazon says 18.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.coffeeness.de/en/javapresse-manual-coffee-grinder-review/",
+        "note": "Independent test: Coffeeness found the grinder compact and capable in middle settings for pour-over, but one of the slowest hand grinders tested, with limited adjustment, a wobbly crank, ceramic-burr consistency limits, and trapped grounds in the catch cup.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=JavaPresse%20Manual%20Coffee%20Grinder",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for JavaPresse Manual Coffee Grinder as of 2026-07-27. A no-match is not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon model and ASIN are explicit",
+      "Narrow stainless steel body stores easily",
+      "Manual operation avoids electric-motor noise",
+      "Independent testing supports acceptable middle-range pour-over results",
+      "Current manufacturer material and Amazon agree on ceramic burrs and compact use"
+    ],
+    "failureModes": [
+      "Independent testing describes grinding as unusually slow for daily use",
+      "Limited click range restricts fine adjustment",
+      "Crank can wobble or detach during use",
+      "Ceramic burrs provide weaker consistency than current steel-burr alternatives",
+      "Grounds can collect around the raised catch-cup interior"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 17,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 7,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 8,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for a primary daily setup. The exact product is verifiable and quiet, but slow grinding, coarse adjustment control, crank friction, and redundant budget positioning make it a weak reader recommendation. Its low entry burden and 2/5 commercial score cannot rescue the ownership tradeoffs.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "coffee_rigs:B0GKFDZ725",
+    "siteId": "coffee_rigs",
+    "productName": "KINGrinder K6 Straight Handle Manual Coffee Grinder",
+    "model": "K6-Straight Handle Sliver",
+    "variant": "Silver, straight handle, 25-30 g title, US listing",
+    "asin": "B0GKFDZ725",
+    "affiliateUrl": "https://www.amazon.com/dp/B0GKFDZ725/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a quiet one-cup grinder for a dorm room or tiny apartment that can be stored easily and still produce repeatable pour-over coffee",
+    "decisionSlot": "compatibility",
+    "bestFor": "A small-space brewer who accepts a heavier hand grinder in exchange for external adjustment and genuine pour-over-to-espresso range",
+    "skipIf": "Your priority is the smallest or lightest dorm setup, you need a fully reconciled current straight-handle variant, or you will not use the broad espresso-to-filter adjustment range",
+    "mainTradeoff": "The K6 offers fast tested grinding and broad external adjustment, but it is heavier and larger than the one-cup-first candidates and the current straight-handle listing conflicts on spelling and hopper capacity across sources",
+    "closestAlternative": "TIMEMORE Chestnut C3S Pro for a smaller verified one-cup filter upgrade, or a future K6 record after the current straight-handle revision is reconciled",
+    "editorialThesis": "The K6 could fill a one-grinder compatibility slot for a reader planning both pour-over and espresso, but the exact new straight-handle ASIN needs variant-level reconciliation before Coffee Rigs can carry forward older K6 test findings",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0GKFDZ725",
+        "note": "Verified identity with conflict: the exact Amazon page resolves to ASIN B0GKFDZ725 and literally identifies model K6-Straight Handle Sliver. Its title says 25-30 g capacity while a page bullet says 25-35 g.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.kingrinder.com/store/products/k6",
+        "note": "Manufacturer claim: KINGrinder's current K6 Straight Handle page documents 16 microns per click, stainless steel burrs, aluminum body, brush cleaning, and 25-30 g hopper capacity. It does not map the page to ASIN B0GKFDZ725 or explain Amazon's Sliver model spelling.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/C1DrZy5LZUL.pdf",
+        "note": "Verified family instruction with limitation: the Amazon-hosted K4/K6 manual documents K6 starting ranges for espresso, AeroPress, pour-over, and French press, but does not identify the current straight-handle ASIN or revision.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.beanground.com/kingrinder-k6-review/",
+        "note": "Independent test with variant limitation: Bean Ground tested a K6 for six weeks and reported easy external adjustment, fast grinding, and strong all-brew-method performance. The 2024 test describes a different handle presentation and capacity figures, so it cannot fully verify the 2026 straight-handle ASIN.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=KINGrinder%20K6",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for KINGrinder K6 as of 2026-07-27. A no-match is not a safety certification and does not resolve the variant-level evidence conflict.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Exact current Amazon ASIN and straight-handle listing are recorded",
+      "External 16-micron adjustment supports repeatable brew-method changes",
+      "Independent testing supports fast grinding and broad pour-over-to-espresso performance for the K6 platform",
+      "All-metal construction and brush-cleanable design support long ownership",
+      "Manual operation avoids electric-motor noise"
+    ],
+    "failureModes": [
+      "Amazon's model string says Sliver rather than Silver",
+      "Current listing and sources disagree between 25-30 g, 25-35 g, and older tested capacities",
+      "Independent test evidence may cover an earlier handle revision",
+      "Heavier construction is a poor fit when lowest dorm storage burden is the main constraint",
+      "Broad espresso capability is wasted complexity for a pour-over-only reader"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 14,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. The K6 platform is capable and the compatibility slot is real, but the exact current straight-handle ASIN has unresolved model spelling, hopper-capacity, and revision-level evidence conflicts. Older K6 tests cannot be carried forward as exact-variant proof, so the claims-supportable hard gate remains false.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
   }
 ]
