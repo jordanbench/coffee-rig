@@ -19,6 +19,7 @@ Coffee Rigs helps home baristas choose grinders, scales, brewers, and espresso a
 - `/guides/best-coffee-scale-for-pour-over/` - Best Coffee Scale for Pour Over Before Prime Day
 - `/guides/clean-burr-grinder/` - How to Clean a Burr Grinder Without Making Coffee Worse
 - `/guides/how-to-choose-your-first-burr-grinder/` - How to Choose Your First Burr Grinder
+- `/guides/best-coffee-grinder-small-kitchens/` - Best Coffee Grinders for Small Kitchens: Quiet and Electric Picks
 - `/guides/best-compact-coffee-makers-small-kitchens/` - Best Compact Coffee Makers for Small Kitchens
 - `/guides/milk-frother-for-oat-milk/` - Best Milk Frother for Oat Milk at Home
 - `/guides/coffee-setup-for-dorm-room/` - Best Coffee Setup for a Dorm Room or Tiny Apartment

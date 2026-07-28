@@ -521,9 +521,9 @@
     "decision": "approve",
     "decisionReason": "Approve for the durable upgrade slot. The exact black ASIN is explicit, current first-party materials cover the C3 S Pro's capacity, adjustment system, and folding handle, independent testing supports the one-cup filter workflow, and the official recall query found no match. Approval is limited to quiet manual pour-over use and must not imply hands-on Coffee Rigs testing or precise espresso suitability.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-07-28",
+      "guidePath": "/guides/best-coffee-grinder-small-kitchens/"
     },
     "sourceRun": "product-discovery:2026-07-27",
     "researchedAt": "2026-07-27",
