@@ -882,5 +882,466 @@
     "sourceRun": "product-discovery:2026-07-27",
     "researchedAt": "2026-07-27",
     "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "coffee_rigs:B0D7378WJL",
+    "siteId": "coffee_rigs",
+    "productName": "WACACO Exagram Pro Coffee Scale",
+    "model": "Exagram Pro",
+    "variant": "Black, rechargeable, protective carrying box, US listing",
+    "asin": "B0D7378WJL",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D7378WJL/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact espresso scale for a Breville Bambino or Bambino Plus that sits fully on the drip tray, responds reliably during a shot, and tolerates normal espresso-station splashes without requiring a pour-over-sized platform",
+    "decisionSlot": "default",
+    "bestFor": "A Bambino or Bambino Plus owner who wants one compact, current, independently tested scale for weighing espresso output and timing shots without platform overhang",
+    "skipIf": "You require a published IP water-resistance rating, Bluetooth logging, a user-replaceable battery, or a large stable platform for a six-cup Chemex",
+    "mainTradeoff": "The compact footprint, espresso mode, physical mode switches, and current Bambino use evidence fit the reader problem unusually well, but the touch tare and timer controls can perturb the displayed weight and the USB-C port has no protective cover",
+    "closestAlternative": "TIMEMORE Black Mirror Nano after its current white Amazon child/canonical ASIN mapping is reconciled, or the QP IP68 scale after first-party documentation is located",
+    "editorialThesis": "The Exagram Pro is the strongest current default for the compact Bambino scale slot because exact-product evidence covers its footprint, espresso workflow, independent accuracy testing, and direct use on both Bambino models while leaving splash and large-brewer limitations explicit",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0D7378WJL",
+        "note": "Verified identity: the current US Amazon page resolves to ASIN B0D7378WJL and identifies the black WACACO Exagram Pro with timer, automatic timing, rechargeable battery, and protective carrying box.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.wacaco.com/products/exagram-pro",
+        "note": "Manufacturer claims: WACACO lists model Exagram Pro in black at 90 x 95 x 22 mm, 155 g, with 0.1 g intervals below 1 kg, espresso and pour-over modes, a 700 mAh rechargeable battery, splash-proof construction, a silicone pad, carrying box, and two-year warranty. Splash-proof is not an IP rating.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://manuals.plus/asin/B0D7378WJL.pdf",
+        "note": "Exact-ASIN instruction document: the Exagram Pro manual covers normal, espresso, and pour-over operation and warns against immersion, use while charging, and uses outside the stated coffee-scale purpose.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/home/coffee-makers/wacaco-exagram-pro-coffee-scale-review",
+        "note": "Independent test: Tom's Guide compared five bean weights against two other scales, found no practical reliability issue, used espresso mode successfully, and confirmed the compact scale fits espresso drip trays. The review also found that touching the pad controls can affect the reading and noted the uncovered USB-C port and absence of an IP rating.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/home/coffee-makers/sage-breville-bambino-review",
+        "note": "Exact workflow evidence: a 2026 independent Bambino test used the WACACO Exagram Pro while timing and weighing shots on the Breville Bambino. This supports fit and workflow, not a Coffee Rigs hands-on claim.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/home/coffee-makers/i-got-this-usd50-coffee-accessory-and-its-completely-transformed-my-espresso",
+        "note": "Exact workflow evidence: the same independent tester reports regular WACACO Exagram Pro use on a Breville Bambino Plus and shows the scale in that setup. This supports named-machine fit and ownership workflow without implying Coffee Rigs testing.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Wacaco%20Exagram%20Pro",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for Wacaco Exagram Pro as of 2026-08-03. A no-match is not a safety certification or proof of waterproofing.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact current US Amazon ASIN and black variant are explicit",
+      "Manufacturer footprint is substantially smaller than common pour-over scales",
+      "Independent testing supports responsive 0.1 g espresso use",
+      "Current independent evidence documents use with both Bambino and Bambino Plus workflows",
+      "Physical mode switches reduce accidental mode changes compared with all-touch navigation",
+      "Two-year manufacturer warranty and carrying box support longer ownership"
+    ],
+    "failureModes": [
+      "Touching tare or timer can momentarily affect the weight reading",
+      "Uncovered USB-C port remains vulnerable to careless splashes despite the splash-proof claim",
+      "No published IP rating supports immersion or aggressive rinsing claims",
+      "Automatic first-drop timing omits pump-start and pre-infusion time unless the user chooses manual mode",
+      "Compact platform can be unstable or hide controls under a large pour-over vessel",
+      "Built-in rechargeable battery is not presented as user-replaceable"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 25,
+      "evidenceConfidence": 20,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 15,
+      "riskAndReturnFit": 14,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 92
+    },
+    "decision": "approve",
+    "decisionReason": "Approve for the default compact Bambino scale slot. The exact current ASIN, manufacturer specifications, manual, independent accuracy test, direct 2026 Bambino and Bambino Plus use, and official recall check support a clear recommendation without implying Coffee Rigs testing. The 1/5 commercial score is intentionally immaterial; reader fit and evidence carry the decision.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "coffee_rigs:B09KLLQPJ3",
+    "siteId": "coffee_rigs",
+    "productName": "TIMEMORE Black Mirror Nano Coffee Scale",
+    "model": "Black Mirror Nano",
+    "variant": "White variant shown on current Amazon child page; canonical ASIN B09KLLQPJ3",
+    "asin": "B09KLLQPJ3",
+    "affiliateUrl": "https://www.amazon.com/dp/B09KLLQPJ3/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact espresso scale for a Breville Bambino or Bambino Plus that sits fully on the drip tray, responds reliably during a shot, and tolerates normal espresso-station splashes without requiring a pour-over-sized platform",
+    "decisionSlot": "upgrade",
+    "bestFor": "A compact-espresso user who values a fast sensor, angled display, dedicated side controls, and flow-rate display more than the lowest ownership cost",
+    "skipIf": "You need a fully reconciled current color-to-ASIN mapping, prefer simple top controls, want current direct-source confirmation of the exact white variant, or dislike a mode system that can replace the timer display with flow rate",
+    "mainTradeoff": "The aluminum structure, responsive readings, angled display, and side controls suit compact espresso, but the current Amazon white child page canonicalizes to a different ASIN while TIMEMORE's exact Nano product page documents black, leaving variant identity unresolved",
+    "closestAlternative": "WACACO Exagram Pro for a fully reconciled current black ASIN with direct Bambino use evidence",
+    "editorialThesis": "The Black Mirror Nano remains a credible compact upgrade platform, but Coffee Rigs should not recommend a specific current Amazon variant until the white child page, canonical B09KLLQPJ3 destination, and TIMEMORE color pages map cleanly to one exact item",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09KLLQPJ3",
+        "note": "Identity blocker: Amazon's live white Nano page was reached through child ASIN B09KLG247F but declared B09KLLQPJ3 as its canonical URL. The visible title says White, so the canonical ASIN is recorded but exact child/canonical color identity is not treated as resolved.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.timemore.com/products/timemore-black-mirror-nano-espresso-coffee-weighing-timing-black",
+        "note": "Manufacturer claims for the black Nano: 3.9 x 4.5 x 0.8 inches, 0.1 g intervals to 2000 g, responsive sensor, side controls, flow-rate display, 15-hour rechargeable battery, and compact espresso positioning. The page does not reconcile the current Amazon white child/canonical mapping.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.maxicoffee.com/images/pdf/User%27s%20Manual%20of%20Nano%20scale%20French%26English%20%2020221031.pdf",
+        "note": "Official-branded Nano manual: documents the Black Mirror Nano controls, 0.2-2000 g measurement range for that manual revision, 900 mAh battery, charging limits, and that only the scale surface is water resistant. It does not identify either Amazon ASIN or current color revision.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://coffeechronicler.com/timemore-black-mirror-nano-review/",
+        "note": "Independent exact-model test: the Nano weighed and timed accurately and fit compact espresso use, but the reviewer found the side-facing controls and extra modes cumbersome. The review is older than the current Amazon variant mapping.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/10ilbru",
+        "note": "Owner-reported pattern with limitation: Bambino users report the Black Mirror Nano fitting the drip tray, while other compact-machine threads show fit can vary by tray geometry. These reports verify a use pattern, not the exact current white ASIN or universal compatibility.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=TIMEMORE%20Black%20Mirror%20Nano",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for TIMEMORE Black Mirror Nano as of 2026-08-03. A no-match is not a safety certification and does not resolve the color/ASIN conflict.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Compact dimensions and angled display suit espresso drip trays",
+      "Independent testing supports responsive weighing and timing",
+      "Side controls reduce the chance that a splash triggers a top control",
+      "Flow-rate display adds an upgrade feature beyond basic weighing and timing",
+      "Bambino owner reports support practical fit for the Nano platform"
+    ],
+    "failureModes": [
+      "Current white Amazon child page canonicalizes to a different ASIN",
+      "TIMEMORE's exact manufacturer page documents black rather than reconciling the white Amazon variant",
+      "Older independent testing may not cover the current color or firmware revision",
+      "Side controls can be bumped while repositioning the scale",
+      "Flow rate replaces the timer display in use",
+      "The manual warns that gaps and charging port are not waterproof"
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 14,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 11,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. The Nano platform has strong reader fit and credible independent performance, but the current white Amazon child page, canonical B09KLLQPJ3 destination, and TIMEMORE black product page do not establish one exact color/ASIN identity. That keeps the ASIN and claims-supportable gates false despite a score above the approval threshold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "coffee_rigs:B0BYNGSZMX",
+    "siteId": "coffee_rigs",
+    "productName": "SearchPean Tiny 2S Espresso Scale",
+    "model": "Tiny-2s / ECS2206",
+    "variant": "Black rechargeable Tiny 2S, 2 kg by 0.1 g US listing",
+    "asin": "B0BYNGSZMX",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BYNGSZMX/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact espresso scale for a Breville Bambino or Bambino Plus that sits fully on the drip tray, responds reliably during a shot, and tolerates normal espresso-station splashes without requiring a pour-over-sized platform",
+    "decisionSlot": "other",
+    "bestFor": "A small-drip-tray espresso user who wants pressure wake-up and automatic timing modes in a roughly 95 x 100 mm footprint and is willing to use manual timing when pre-infusion confuses automation",
+    "skipIf": "You require a currently retrievable exact Amazon page, waterproof construction, long-term first-party support, or reliable automatic timing through slow pre-infusion and interrupted flow",
+    "mainTradeoff": "The compact footprint, rechargeable battery, and smart modes reduce workflow friction, but the exact US Amazon page could not be retrieved directly and current independent testing reports that pre-infusion can confuse the automatic timer",
+    "closestAlternative": "WACACO Exagram Pro for current exact-listing proof, stronger manufacturer support, and direct Bambino use evidence",
+    "editorialThesis": "The Tiny 2S is a plausible smart-mode value slot, but blocked direct Amazon retrieval and automation behavior around pre-infusion make it a research hold rather than an activation-ready recommendation",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BYNGSZMX",
+        "note": "Blocked identity check: the direct current Amazon page returned an internal error during this run. Current indexed listing data and the Amazon-hosted manual identify B0BYNGSZMX as SearchPean Tiny-2s, but the direct listing was not treated as fully verified.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/91l7Rc4ob5L.pdf",
+        "note": "Exact-ASIN family manual: the Amazon-hosted SearchPean ECS2206 document maps B0BYNGSZMX to Tiny-2s, lists a 95 x 100 x 19 mm body, 2 kg capacity, 0.1 g stated error range, 800 mAh battery, and manual, espresso, and pour-over timing modes. It warns that the scale is not waterproof.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://coffeechronicler.com/best-digital-scales-for-coffee/",
+        "note": "Current 2026 independent test: the reviewer identifies the SearchPean Tiny 2S by name, finds the compact USB-C scale competent for espresso, and reports that automatic timing struggles with pre-infusion; manual mode is the recommended workaround.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://forum.clubedocafe.net/topic/10087-balan%C3%A7a-com-timer-autom%C3%A1tico-tiny2s/",
+        "note": "Owner-reported pattern: multiple Tiny 2S users describe compact, fast operation but report that espresso auto-timing can stop when flow slows or pauses. The discussion also reports seller-fulfillment friction outside Amazon; it is not evidence about the current US Amazon seller.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=SearchPean%20Tiny%202S",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for SearchPean Tiny 2S as of 2026-08-03. A no-match is not a safety certification or a waterproofing claim.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Amazon-hosted manual maps the exact ASIN to the Tiny 2S family",
+      "Compact footprint is appropriate for small espresso drip trays",
+      "Current independent testing supports competent manual-mode espresso use",
+      "Rechargeable battery and pressure wake-up reduce daily setup steps",
+      "Manual documents three timing modes and explicit operating limits"
+    ],
+    "failureModes": [
+      "Direct current Amazon listing could not be retrieved",
+      "Pre-infusion or interrupted flow can confuse automatic timing",
+      "Manual explicitly says the scale is not waterproof",
+      "First-party web support is thinner than WACACO or TIMEMORE",
+      "Large pour-over vessels can obscure the display",
+      "Seller-fulfillment complaints from other marketplaces add ownership uncertainty"
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 10,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. Current independent and manual evidence supports the Tiny 2S platform, but the exact current US Amazon page was blocked and the smart timing modes have a repeated pre-infusion failure pattern. Manual mode may be useful, yet the ASIN gate remains false until the direct listing is retrievable and current.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "coffee_rigs:B0DQ5C8G9Q",
+    "siteId": "coffee_rigs",
+    "productName": "QP Mini Coffee Scale with Timer",
+    "model": "QP IP68 Mini Coffee Scale",
+    "variant": "Black, 1 kg by 0.1 g, AAA-powered, three-mode US listing",
+    "asin": "B0DQ5C8G9Q",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DQ5C8G9Q/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact espresso scale for a Breville Bambino or Bambino Plus that sits fully on the drip tray, responds reliably during a shot, and tolerates normal espresso-station splashes without requiring a pour-over-sized platform",
+    "decisionSlot": "constraint",
+    "bestFor": "A buyer whose dominant constraint is drip-tray moisture exposure and who prefers replaceable AAA batteries and physical buttons over USB charging",
+    "skipIf": "You require an official manufacturer page or manual that independently substantiates the IP68 claim, need direct Bambino fit evidence, or prefer a longer-established coffee equipment brand",
+    "mainTradeoff": "The narrow platform, physical buttons, replaceable batteries, and IP68 listing claim address common drip-tray problems, but no current external manufacturer page or official manual was found to substantiate the exact product and protection rating",
+    "closestAlternative": "WACACO Exagram Pro for stronger exact-product documentation and direct Bambino evidence, while accepting rechargeable power and no published IP rating",
+    "editorialThesis": "The QP scale could become the moisture-resistant constraint pick, but Coffee Rigs should not promote an IP68 claim or long-term ownership case until first-party documentation beyond the Amazon detail page is available",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0DQ5C8G9Q",
+        "note": "Verified listing identity: the current US Amazon page resolves to B0DQ5C8G9Q and identifies a QP Mini Coffee Scale with timer, 1 kg by 0.1 g title, IP68 claim, three modes, LCD, g/oz/ml units, and carrying case.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://espressoaf.com/recommendations/coffee-scales.html",
+        "note": "Independent recommendation with exact Amazon link: Espresso Aficionados lists the QP IP68 scale at 121 x 65 x 21 mm, 0.3-1000 g in 0.1 g increments, two AAA batteries, physical-button workflow, smart modes, and improved splash resistance versus the Weightman. It is not a substitute for manufacturer certification.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/CafelatRobot/comments/1s05fne/is_there_a_moderately_priced_scale_that_fits_the/",
+        "note": "Current owner report: a 2026 Cafelat Robot user linked exact ASIN B0DQ5C8G9Q and described it as working well. This supports compact-machine use but does not verify Bambino fit, IP68 testing, or long-term durability.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=QP%20Mini%20Coffee%20Scale",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for QP Mini Coffee Scale as of 2026-08-03. A no-match is not a safety or IP certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact current Amazon ASIN and variant title are explicit",
+      "Independent source links the exact listing and reports a narrow drip-tray footprint",
+      "Physical buttons and replaceable AAA batteries reduce charging and touch-control friction",
+      "Three modes offer more workflow flexibility than a basic timer scale",
+      "Owner report supports use on another highly constrained espresso platform"
+    ],
+    "failureModes": [
+      "No external official manufacturer page or manual was found",
+      "IP68 remains a listing and independent-review claim without located first-party certification",
+      "No exact Bambino or Bambino Plus fit test was found",
+      "Brand support, calibration procedure, warranty, and replacement parts are unclear",
+      "Small platform may not support larger pour-over vessels safely"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 13,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 75
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. The exact listing and independent evidence make the QP scale promising for the moisture-resistance constraint slot, but the official manufacturer/manual evidence group is missing and the IP68 claim is therefore not ready for Coffee Rigs copy. Commercial value is only 1/5 and does not affect the hold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "coffee_rigs:B07XQS8JL6",
+    "siteId": "coffee_rigs",
+    "productName": "WEIGHTMAN Espresso Scale with Timer",
+    "model": "WEIGHTMAN 1000g x 0.1g Espresso Scale",
+    "variant": "Black, stainless-steel platform, AAA-powered US listing",
+    "asin": "B07XQS8JL6",
+    "affiliateUrl": "https://www.amazon.com/dp/B07XQS8JL6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact espresso scale for a Breville Bambino or Bambino Plus that sits fully on the drip tray, responds reliably during a shot, and tolerates normal espresso-station splashes without requiring a pour-over-sized platform",
+    "decisionSlot": "budget",
+    "bestFor": "A budget-constrained buyer who wants a compact manual timer and 0.1 g display and is willing to protect the scale carefully from every splash",
+    "skipIf": "You want any documented splash resistance, automatic shot timing, current manufacturer support, or a scale that can remain on a wet drip tray without special handling",
+    "mainTradeoff": "The very small platform, manual timer, and AAA power solve basic fit at low complexity, but independent and owner reports repeatedly identify liquid ingress as the central failure mode and no official manufacturer page or manual was located",
+    "closestAlternative": "QP Mini Coffee Scale for a similarly narrow physical format with an IP68 listing claim, pending first-party documentation, or WACACO Exagram Pro for the approved current default",
+    "editorialThesis": "The Weightman demonstrates that a basic compact scale can fit the Bambino, but splash vulnerability, missing first-party support, and overlap with better-documented alternatives make it too fragile for a primary Coffee Rigs recommendation",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07XQS8JL6",
+        "note": "Verified identity: the current US Amazon page resolves to B07XQS8JL6 and identifies the black WEIGHTMAN espresso scale with timer, 1000 g capacity, 0.1 g display increment, backlit LCD, stainless-steel platform, and compact drip-tray positioning.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://espressoaf.com/recommendations/coffee-scales.html",
+        "note": "Independent recommendation with exact Amazon link: Espresso Aficionados lists the Weightman at 121 x 69 x 18 mm with 0.1 g increments and a timer, but explicitly identifies lack of splash resistance and liquid entry as its primary weakness.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/10ilbru",
+        "note": "Owner-reported pattern: Bambino users identify exact ASIN B07XQS8JL6 as a fitting compact option, while related owner reports describe liquid ingress failures and improvised button protection. This is mixed ownership evidence, not a durability guarantee.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Weightman%20Espresso%20Scale",
+        "note": "Official recall check: the CPSC product-name query returned zero recall records for Weightman Espresso Scale as of 2026-08-03. A no-match is not a safety certification and does not reduce the documented liquid-ingress risk.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact current Amazon ASIN and title are explicit",
+      "Compact format has direct Bambino owner-fit evidence",
+      "Manual timer and replaceable AAA batteries are simple to understand",
+      "Independent source supports basic weighing usefulness",
+      "Low-profile platform is easier to position than a pour-over scale"
+    ],
+    "failureModes": [
+      "No located official manufacturer page or manual",
+      "Independent and owner reports repeatedly flag liquid ingress",
+      "No documented splash-resistance rating",
+      "Manual timing adds a step during espresso extraction",
+      "Thin basic construction overlaps with the better-protected QP slot",
+      "A liquid-damaged scale can create unstable or delayed readings"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 6,
+      "riskAndReturnFit": 8,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for a primary compact espresso recommendation. Exact identity and Bambino fit are credible, but missing first-party documentation, repeated liquid-ingress reports, and overlap with better-supported compact scales make the ownership case too weak. The 1/5 commercial score cannot rescue the recommendation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
   }
 ]
