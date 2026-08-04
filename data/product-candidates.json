@@ -904,13 +904,13 @@
         "type": "amazon-listing",
         "url": "https://www.amazon.com/dp/B0D7378WJL",
         "note": "Verified identity: the current US Amazon page resolves to ASIN B0D7378WJL and identifies the black WACACO Exagram Pro with timer, automatic timing, rechargeable battery, and protective carrying box.",
-        "checkedAt": "2026-08-03"
+        "checkedAt": "2026-08-04"
       },
       {
         "type": "manufacturer",
         "url": "https://www.wacaco.com/products/exagram-pro",
         "note": "Manufacturer claims: WACACO lists model Exagram Pro in black at 90 x 95 x 22 mm, 155 g, with 0.1 g intervals below 1 kg, espresso and pour-over modes, a 700 mAh rechargeable battery, splash-proof construction, a silicone pad, carrying box, and two-year warranty. Splash-proof is not an IP rating.",
-        "checkedAt": "2026-08-03"
+        "checkedAt": "2026-08-04"
       },
       {
         "type": "manual",
@@ -979,13 +979,13 @@
     "decision": "approve",
     "decisionReason": "Approve for the default compact Bambino scale slot. The exact current ASIN, manufacturer specifications, manual, independent accuracy test, direct 2026 Bambino and Bambino Plus use, and official recall check support a clear recommendation without implying Coffee Rigs testing. The 1/5 commercial score is intentionally immaterial; reader fit and evidence carry the decision.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-08-04",
+      "guidePath": "/guides/budget-home-espresso-setup/"
     },
     "sourceRun": "product-discovery:2026-08-03",
     "researchedAt": "2026-08-03",
-    "lastVerifiedAt": "2026-08-03"
+    "lastVerifiedAt": "2026-08-04"
   },
   {
     "candidateId": "coffee_rigs:B09KLLQPJ3",
