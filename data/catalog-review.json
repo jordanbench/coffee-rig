@@ -1,4 +1,130 @@
 {
-  "reviewedAt": null,
-  "products": []
+  "reviewedAt": "2026-08-06",
+  "products": [
+    {
+      "asin": "B07QMY8GLX",
+      "status": "retire-review",
+      "reason": "The catalog promises an OXO Brew grinder, but the exact Amazon ASIN currently resolves to a Baratza Virtuoso+ ZCG587BLK. The intended OXO grinder still has a current manufacturer page and manual, so the reader need remains valid, but this destination cannot deliver the named product and every placement needs human removal review before a separately researched exact OXO ASIN can be considered.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07QMY8GLX",
+        "https://www.oxo.com/shop/coffee-beverage/conical-burr-coffee-grinder-matte-black.html",
+        "https://www.oxo.com/media/wysiwyg/PDF_Files/BL_On_8717000_Booklet_Temp.pdf",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=OXO%20Brew%20Conical%20Burr%20Coffee%20Grinder"
+      ]
+    },
+    {
+      "asin": "B08V8N3Y4Q",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN currently identifies an unrelated leather trucker hat rather than a Fellow grinder. Fellow also introduced Opus 2 in 2026 with a materially revised 48 mm burr set, stepless adjustment, and new retention path, so the old catalog identity and decision evidence are both stale; remove the broken destination only after human review and research Opus 2 as a new exact candidate instead of silently swapping products.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B08V8N3Y4Q",
+        "https://fellowproducts.com/collections/espresso/products/opus-2-conical-burr-grinder",
+        "https://help.fellowproducts.com/hc/en-us/articles/48922628360731-What-s-new-with-Opus-2",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Fellow%20Opus%20Conical%20Burr%20Grinder"
+      ]
+    },
+    {
+      "asin": "B0B6GLYY9X",
+      "status": "retire-review",
+      "reason": "The exact Amazon destination returns Page Not Found, so readers cannot verify or buy the cataloged Greater Goods scale through this link. Greater Goods still documents its current model 0460 Premium Coffee Scale, but no current evidence ties that model to this dead ASIN; the row should receive human removal review and any replacement must enter through exact-ASIN discovery.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0B6GLYY9X",
+        "https://shop.greatergoods.com/products/premium-coffee-scale-onyx-black",
+        "https://www.cpsc.gov/Recalls/2025/Greater-Goods-Recalls-Digital-Kitchen-Scales-Due-to-Ingestion-Hazard-Violations-of-Reeses-Law-Federal-Safety-Regulations-for-Consumer-Products-with-Coin-Batteries-and-Child-Resistant-Coin-Battery-Packaging",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Greater%20Goods%20Digital%20Coffee%20Scale"
+      ]
+    },
+    {
+      "asin": "B0BKRBR3BZ",
+      "status": "retire-review",
+      "reason": "The catalog names a Hario V60 Drip Coffee Decanter, but the exact Amazon destination now canonicalizes to a MiiCoffee Nano espresso scale. Hario still documents the VDD-02B decanter, so the brewer decision slot remains useful, but this ASIN is an identity mismatch and all linked recommendations need human removal review before a correctly verified decanter candidate is added.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BKRBR3BZ",
+        "https://www.hario-usa.com/products/v60-drip-decanter",
+        "https://www.reddit.com/r/pourover/comments/1v2bubs/has_anyones_v60_decanter_cracked_during_brewing/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Hario%20V60%20Drip%20Coffee%20Decanter"
+      ]
+    },
+    {
+      "asin": "B07CNG6RM7",
+      "status": "retire-review",
+      "reason": "The exact Amazon listing still matches Bodum Bistro model 11870-01US and no exact-name CPSC recall was found, but current independent oat-milk testing does not recommend it: thin short-lived oat foam and one-function controls weaken the guide's core reader promise. Owner reports also repeat burned-milk residue, difficult non-immersible cleanup, thermostat cycling, and whisk or motor failures, while current multi-mode alternatives better serve hot, cold, and non-dairy routines; recommend human retirement and replacement research.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07CNG6RM7",
+        "https://d9pl0lig74xnv.cloudfront.net/product_manuals/0/5/05-11870_1.pdf",
+        "https://www.bonappetit.com/story/best-milk-frothers",
+        "https://www.ebay.com/urw/BODUM-11870-01US-Bistro-Milk-Frother-Black/product-reviews/16044142728",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Bodum%20Bistro%20Electric%20Milk%20Frother"
+      ]
+    },
+    {
+      "asin": "B00004SPEU",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN currently resolves to a KRUPS blade grinder, not Urnex Cafiza cleaner. Urnex still documents Cafiza Powder, its machine-specific use instructions, and its current safety data, so the maintenance need remains real; this mismatched destination should be removed after human review and any Cafiza replacement must use a newly verified exact package and ASIN.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B00004SPEU",
+        "https://urnex.com/cafiza-powder",
+        "https://urnex.com/sds",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Urnex%20Cafiza%20Espresso%20Machine%20Cleaner"
+      ]
+    },
+    {
+      "asin": "B0B1JPPG2L",
+      "status": "keep",
+      "reason": "The exact Amazon page still identifies the brushed-stainless Breville Bambino BES450, and Breville's current support hub and manual continue to cover setup, extraction, manual milk texturing, cleaning, troubleshooting, parts, and repair. Current owner complaints about priming, flow, and support are anecdotal rather than attributable failure rates; they reinforce the existing maintenance and limited-serviceability caveats but do not displace this machine's distinct compact manual-milk default slot. No exact-model CPSC recall was returned and no replacement reviewed offers meaningfully better fit without changing the reader's budget or workflow.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0B1JPPG2L",
+        "https://www.breville.com/en-us/producthub/bes450",
+        "https://assets.breville.com/BES450/BES450_USCM_IB_M26_LR.pdf",
+        "https://www.reddit.com/r/breville/comments/1vfl6jo/horrible_customer_service_experience_bambino/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Breville%20Bambino%20BES450"
+      ]
+    },
+    {
+      "asin": "B07JVD78TT",
+      "status": "keep",
+      "reason": "The exact Amazon page still matches the brushed-stainless Breville Bambino Plus BES500, and Breville continues to publish model-specific automatic milk, cleaning, troubleshooting, parts, warranty, and repair support. Recent owner reports describe cleaning-cycle, short-shot, and support friction, but they do not establish incidence and are already bounded by the guide's added-complexity and cleaning caveats. No exact-model CPSC recall was returned, and the automatic milk workflow remains meaningfully distinct from the regular Bambino rather than a blanket upgrade.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07JVD78TT",
+        "https://www.breville.com/en-us/producthub/bes500",
+        "https://assets.breville.com/BES500/BES500_USCM_IB_X25_LR.pdf",
+        "https://www.reddit.com/r/BrevilleCoffee/comments/1urqrzo/bambino_plus_cleaning_cycle_issue/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Breville%20Bambino%20Plus%20BES500"
+      ]
+    },
+    {
+      "asin": "B0CC4Z32F8",
+      "status": "keep",
+      "reason": "The exact Amazon listing still matches the black TIMEMORE Chestnut C3S Pro with folding handle, and TIMEMORE's current C3 family page and manual center continue to document the 20 g C3 S Pro, classic internal adjustment, and Pro handle. Independent testing's repeated limits—small batch capacity, manual effort, and adjustment steps too coarse for precise non-pressurized espresso—remain clearly disclosed and preserve rather than blur its quiet one-cup filter-grinder slot. No exact-name CPSC recall was returned, and the previously researched closest alternative still lacks a cleaner exact-variant case.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0CC4Z32F8",
+        "https://www.timemore.com/collections/coffee-grinder-manual/products/c3-series",
+        "https://www.timemore.com/pages/download-center",
+        "https://www.coffeeness.de/timemore-chestnut-c3s-pro-test/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=TIMEMORE%20Chestnut%20C3S%20Pro"
+      ]
+    },
+    {
+      "asin": "B0D7378WJL",
+      "status": "keep",
+      "reason": "The exact Amazon page and current WACACO page still agree on the black Exagram Pro, compact 90 x 95 mm body, rechargeable power, espresso mode, and carrying box. Independent and owner evidence continues to support Bambino-sized drip-tray fit while repeating the already disclosed touch-control movement, uncovered USB-C port, no IP rating, and first-drop timer limitations. No exact-name CPSC recall was returned, and no reviewed alternative combines a stronger exact identity, named-machine fit, and manufacturer support for this compact default slot.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0D7378WJL",
+        "https://www.wacaco.com/products/exagram-pro",
+        "https://www.tomsguide.com/home/coffee-makers/wacaco-exagram-pro-coffee-scale-review",
+        "https://www.reddit.com/r/espresso/comments/1v9pe1x/new_espresso_scales_for_50_in_the_uk/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=WACACO%20Exagram%20Pro"
+      ]
+    }
+  ]
 }
