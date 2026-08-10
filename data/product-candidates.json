@@ -1343,5 +1343,462 @@
     "sourceRun": "product-discovery:2026-08-03",
     "researchedAt": "2026-08-03",
     "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "coffee_rigs:B0BPBD7N2L",
+    "siteId": "coffee_rigs",
+    "productName": "Breville the Dosing Funnel 54",
+    "model": "BEA201NEU0ZNA1 / BEA201 Series",
+    "variant": "54mm clear-grey twist-lock funnel for listed Breville Barista and Bambino models, US listing",
+    "asin": "B0BPBD7N2L",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BPBD7N2L/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 54mm dosing funnel for a Breville Bambino or Bambino Plus that stays seated during grinding and WDT, clears the basket opening, and avoids a messy transfer step",
+    "decisionSlot": "default",
+    "bestFor": "A Bambino or Bambino Plus owner using the stock Breville 54mm portafilter who wants a positive twist-lock connection, supported machine compatibility, and the option to tamp before removing the funnel",
+    "skipIf": "You use an aftermarket portafilter or basket that is not confirmed compatible, want a magnetic lift-off funnel, or need the portafilter to sit in a non-Breville grinder cradle while the funnel is attached",
+    "mainTradeoff": "The Breville-specific tabs provide the strongest documented stock-portafilter security and tamp-through workflow, but the same keyed fit can bind or fail on aftermarket 54mm portafilters and is less universal than an outer-rim magnetic funnel",
+    "closestAlternative": "Normcore 54mm Magnetic Dosing Funnel V2 for an outer-rim magnetic WDT workflow after confirming that the exact basket rim is magnetic and flat enough",
+    "editorialThesis": "For a stock Bambino portafilter, the official twist-lock funnel is the lowest-ambiguity way to keep grounds contained through dosing and WDT; its recommendation must remain explicitly limited to Breville-listed portafilters",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BPBD7N2L",
+        "note": "Verified exact listing identity: the current US page resolves to B0BPBD7N2L, names Breville the Dosing Funnel 54, model BEA201NEU0ZNA1, and explicitly lists Bambino BES450 and Bambino Plus BES500 compatibility. The listing's material field conflicts with Breville's BPA-free description, so no material claim is carried into the recommendation.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.breville.com/en-us/product/bea201neu0zna1",
+        "note": "Verified manufacturer guidance: Breville identifies the 54mm funnel, BPA-free and dishwasher-safe claims, twist-on attachment, tamp-through workflow, and compatibility with named Breville 54mm portafilters. The page's short compatibility list is narrower than the current Amazon listing, so Bambino compatibility is attributed to the exact Amazon listing and owner evidence rather than generalized from this page.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manual",
+        "url": "https://breville-production-aem-assets.s3.us-west-2.amazonaws.com/BEA201/BEA201_USCM_WEBONLY_IB_B22_FA_LR.pdf",
+        "note": "Official BEA201 Series instruction and warranty document verifies the Dosing Funnel 54 product family and Breville's one-year limited warranty. The document warns that illustrations may vary, so it is not used to override the exact current listing identity.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/1rvklit/bambino_df54_best_bang_for_my_buck_first_station/",
+        "note": "Current exact-ASIN owner report: a 2026 Bambino and DF54 user links B0BPBD7N2L and says the funnel helps keep the area cleaner. This supports the named-machine workflow but is not Coffee Rigs testing or proof of fit on aftermarket portafilters.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/16og8zg/breville_dosing_funnel_gets_stuck_on_normcore/",
+        "note": "Owner-reported compatibility limitation: Breville's keyed funnel can become stuck on a Normcore 54mm bottomless portafilter. This supports restricting the recommendation to the stock or explicitly confirmed Breville portafilter rather than all nominally 54mm hardware.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Breville%20Dosing%20Funnel",
+        "note": "Official CPSC product-name recall query returned zero recall records for Breville Dosing Funnel on 2026-08-10. A no-match is not a safety certification, food-contact certification, or proof of compatibility.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "Exact current US ASIN, model number, and canonical destination are verified",
+      "Amazon's exact listing names Bambino and Bambino Plus compatibility",
+      "Twist-lock tabs provide a positive mechanical connection on supported Breville portafilters",
+      "Manufacturer supports dosing and tamping before detaching the funnel",
+      "Official instructions and one-year warranty provide stronger ownership support than generic rings"
+    ],
+    "failureModes": [
+      "Keyed tabs may bind, sit loose, or fail to engage on aftermarket portafilters and baskets",
+      "A non-Breville grinder cradle may not support the portafilter with the funnel attached",
+      "Removing the funnel before settling a high dose can still pull or spill grounds",
+      "Amazon and Breville material descriptions are not fully reconciled",
+      "The non-magnetic design is less convenient for users who frequently swap baskets"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 25,
+      "evidenceConfidence": 20,
+      "ownershipLongevity": 14,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 14,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 90
+    },
+    "decision": "approve",
+    "decisionReason": "Approve for the default stock-Bambino slot. Exact ASIN and model identity, named Bambino compatibility, a positive twist-lock workflow, current exact-ASIN owner evidence, official instructions, and a clean recall query support the recommendation. Copy must exclude unverified aftermarket portafilters and material claims. Commercial value is 1/5 and did not drive approval.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": "/guides/budget-home-espresso-setup/"
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "coffee_rigs:B0BVR5QV4Q",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore 54mm Magnetic Dosing Funnel V2",
+    "model": "54mm V2",
+    "variant": "Black 18mm anodized-aluminum magnetic funnel for 54mm Breville portafilters, US listing",
+    "asin": "B0BVR5QV4Q",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BVR5QV4Q/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 54mm dosing funnel for a Breville Bambino or Bambino Plus that stays seated during grinding and WDT, clears the basket opening, and avoids a messy transfer step",
+    "decisionSlot": "upgrade",
+    "bestFor": "A Bambino or Bambino Plus user with a flat, sufficiently magnetic 54mm basket who wants an outer-rim funnel that stays put during WDT and lifts off without keyed Breville tabs entering the portafilter",
+    "skipIf": "Your basket is weakly magnetic, has a raised or rounded rim, you rely on a built-in Breville grinder cradle, or you want dishwasher-safe cleaning",
+    "mainTradeoff": "The outer-rim magnetic design preserves the full basket opening and is convenient for WDT, but hold strength and seating depend on the exact basket alloy and rim geometry and can be weaker on some IMS-style baskets",
+    "closestAlternative": "Breville the Dosing Funnel 54 for the stock Breville portafilter when a positive twist lock and official named-machine fit matter more than magnetic lift-off",
+    "editorialThesis": "The Normcore V2 earns the magnetic upgrade slot because its exact current listing, external-rim geometry, and current Bambino owner pattern solve WDT spill control without an inner lip, provided readers verify basket magnetism before buying",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BVR5QV4Q",
+        "note": "Verified exact listing identity: the current US page resolves to B0BVR5QV4Q and identifies the black Normcore 54mm Magnetic Dosing Funnel V2, model 54mm V2, with an 18mm anodized-aluminum body and neodymium magnets. The page explicitly warns that magnetic hold depends on basket material and that built-in Breville grinder cradles cannot be used with the funnel attached.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/normcore-magnetic-dosing-funnel-v2?variant=45870949204216",
+        "note": "Verified manufacturer product family and selected-size guidance: Normcore lists a 54mm variant for Breville and Sage Bambino Plus and similar 54mm models, an 18mm height, 44g weight, outer-rim magnetic construction, WDT use, and hand-cleaning limitations. The page copy also contains 58mm-family text, so exact black 54mm identity is anchored to Amazon rather than inferred from the default selector.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/1jadvd4/dosing_funnel_what_is_everyone_using/",
+        "note": "Exact-model owner pattern: a 54mm Bambino owner reports ordering the Normcore V2, while another V2 owner in the thread reports being very happy with the product. The thread also identifies magnets and an outside-basket fit as the meaningful design choices; it is not a universal fit test.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.co.uk/products/512199649-normcore-54mm-magnetic-dosing-funnel-v2-espresso-coffee-dosing-ring",
+        "note": "Clearly summarized exact-item owner pattern: current reviews report secure WDT use on a Bambino Plus and good fit on some Normcore and IMS baskets, while other exact-item reports describe basket-dependent magnet strength. Reseller-hosted reviews are treated as ownership patterns, not independent lab testing.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://coffeetime.freeflarum.com/d/2530-dosing-funnel",
+        "note": "Failure-pattern evidence: an owner reports that a Normcore 54mm magnetic funnel did not fit a rounded-edge IMS basket. This supports the explicit flat-rim and basket-magnetism pre-purchase check.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%2054mm%20Magnetic%20Dosing%20Funnel",
+        "note": "Official CPSC product-name recall query returned zero recall records for Normcore 54mm Magnetic Dosing Funnel on 2026-08-10. A no-match is not a safety certification and does not establish magnet retention or food-contact compliance.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "Exact current black 54mm Amazon child ASIN and model are verified",
+      "Outer-rim geometry does not occupy the basket opening during WDT",
+      "Manufacturer explicitly maps 54mm to Bambino Plus and similar Breville models",
+      "Magnetic lift-off avoids keyed tabs that can bind on aftermarket portafilters",
+      "Current owner patterns support secure WDT use when basket geometry is compatible"
+    ],
+    "failureModes": [
+      "Magnet strength varies with basket alloy and manufacturing",
+      "Raised or rounded IMS-style rims can reduce contact or prevent seating",
+      "Built-in Breville grinder cradles cannot be used with the funnel installed",
+      "Manufacturer warns against dishwasher use, strong detergent, hot-water soaking, or overnight soaking",
+      "The official product selector mixes 54mm and 58mm family copy, requiring exact Amazon-variant discipline"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 11,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 84
+    },
+    "decision": "approve",
+    "decisionReason": "Approve for the magnetic upgrade slot, not as a universal 54mm fit. Exact ASIN identity, manufacturer 54mm/Bambino guidance, external-rim geometry, current owner patterns, and a clean recall query support WDT spill control. Basket magnetism and rim shape remain mandatory pre-purchase checks. Commercial value is 1/5 and did not drive approval.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": "/guides/budget-home-espresso-setup/"
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "coffee_rigs:B081R2CH7M",
+    "siteId": "coffee_rigs",
+    "productName": "Crema Coffee Products 54mm Dosing Funnel",
+    "model": "54mm Dosing Funnel",
+    "variant": "Stainless-steel 54mm Breville/Sage funnel formerly mapped to B081R2CH7M; current US destination redirects to a 58mm silver variant",
+    "asin": "B081R2CH7M",
+    "affiliateUrl": "https://www.amazon.com/dp/B081R2CH7M/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 54mm dosing funnel for a Breville Bambino or Bambino Plus that stays seated during grinding and WDT, clears the basket opening, and avoids a messy transfer step",
+    "decisionSlot": "compatibility",
+    "bestFor": "No current Coffee Rigs recommendation while the former 54mm ASIN lands on a 58mm product; the documented manufacturer-direct funnel may suit a Bambino owner only through a separately verified non-Amazon purchase",
+    "skipIf": "You are following the Amazon link, need a verified current 54mm ASIN, want a magnetic funnel, or use a grinder cradle that requires the portafilter to remain supported",
+    "mainTradeoff": "The manufacturer documents a heavy, secure, non-magnetic 54mm Bambino-compatible funnel, but the former Amazon 54mm destination now resolves to ASIN B09JVP8SQ8 for a 58mm silver product and is unsafe to activate",
+    "closestAlternative": "Breville the Dosing Funnel 54 for a verified stock-portafilter ASIN, or Normcore V2 for a verified magnetic 54mm ASIN after checking the basket",
+    "editorialThesis": "Crema's product design remains plausible, but a wrong-size Amazon redirect is an immediate affiliate and reader-fit failure; Coffee Rigs should not link or recommend this ASIN unless Crema supplies a new exact 54mm child ASIN",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B081R2CH7M",
+        "note": "Failed current identity gate: B081R2CH7M now lands on current ASIN B09JVP8SQ8, titled CREMA Coffee Products 58mm Dosing Funnel, silver. The landing ASIN is marked deleted in the page variation data and cannot serve as a canonical 54mm affiliate destination.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://cremacoffeeproducts.com/products/54mm-dosing-funnel",
+        "note": "Verified manufacturer-direct 54mm product family: Crema states Bambino and Bambino Plus compatibility, outside-rim seating, WDT spill control, a non-magnetic but secure fit pattern, and a grinder-cradle limitation. The page does not identify a current Amazon ASIN.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://shop.app/products/4523859181703/54mm-dosing-funnel",
+        "note": "Owner-reported product-family pattern: current reviews describe the Crema 54mm funnel as secure during WDT but non-magnetic. This supports the manufacturer-direct design, not the broken Amazon ASIN mapping.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Crema%2054mm%20Dosing%20Funnel",
+        "note": "Official CPSC product-name recall query returned zero recall records for Crema 54mm Dosing Funnel on 2026-08-10. A no-match is not a safety certification and cannot cure the wrong-size Amazon redirect.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "Manufacturer maintains a current 54mm product page naming Bambino compatibility",
+      "Outside-rim seating preserves the basket opening for WDT",
+      "Manufacturer-direct owner reports describe a stable non-magnetic fit",
+      "Stainless-steel construction avoids a glued-magnet failure mode"
+    ],
+    "failureModes": [
+      "Canonical Amazon destination resolves to a 58mm silver product",
+      "Former 54mm landing ASIN is deleted from the current variation mapping",
+      "No replacement current 54mm Amazon child ASIN was located",
+      "Non-magnetic ring can lift or move if basket and rim tolerances differ",
+      "Built-in grinder cradles may not support the portafilter with the funnel attached"
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": false
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 9,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 6,
+      "riskAndReturnFit": 6,
+      "demandSignal": 2,
+      "commercialValue": 1,
+      "total": 55
+    },
+    "decision": "reject",
+    "decisionReason": "Reject the current ASIN. The manufacturer-direct 54mm funnel has credible Bambino and WDT evidence, but B081R2CH7M now redirects to a 58mm silver ASIN. Wrong-size destination risk fails ASIN, claims, and affiliate-compliance gates; commercial value cannot rescue it.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "coffee_rigs:B082SWN84Q",
+    "siteId": "coffee_rigs",
+    "productName": "MATOW 54mm Stainless Steel Coffee Dosing Ring",
+    "model": "MATOW 54mm non-magnetic dosing funnel",
+    "variant": "Silver 304-stainless-steel 54mm ring for listed Breville portafilters, US listing",
+    "asin": "B082SWN84Q",
+    "affiliateUrl": "https://www.amazon.com/dp/B082SWN84Q/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 54mm dosing funnel for a Breville Bambino or Bambino Plus that stays seated during grinding and WDT, clears the basket opening, and avoids a messy transfer step",
+    "decisionSlot": "budget",
+    "bestFor": "A budget-conscious stock-basket user who prefers a heavy non-magnetic stainless ring and can accept a friction fit while Coffee Rigs waits for exact first-party documentation",
+    "skipIf": "You need a positive twist lock or magnets, want verified current manufacturer instructions and warranty terms, use a basket with a rim shape that has not been confirmed, or need the portafilter held in a grinder cradle",
+    "mainTradeoff": "The current exact listing and owner pattern support a simple heavy ring that reduces mess, but the funnel can slide or lift because it has no positive retention and the exact ASIN lacks a located manufacturer page or manual",
+    "closestAlternative": "Breville the Dosing Funnel 54 for a verified twist lock, or Normcore V2 for verified magnetic retention with a compatible basket",
+    "editorialThesis": "The MATOW ring is a credible simple-budget concept, but a primary recommendation should wait for exact first-party documentation and a clearer current fit pattern because weight alone does not guarantee it stays seated during WDT",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B082SWN84Q",
+        "note": "Verified exact current listing: B082SWN84Q identifies the silver MATOW 54mm Espresso Dosing Funnel, lists 304 stainless steel, and names Breville Bambino Plus and other Breville 54mm portafilters. These are listing claims; no exact official manufacturer manual was located.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://morningcoffeejournal.com/54mm-espresso-dosing-funnel-review/",
+        "note": "Current exact-title editorial review supports a heavy outside-rim 54mm fit and mess reduction but warns readers to confirm tamper clearance and setup-specific fit. The review largely repeats listing specifications and is not treated as laboratory or long-term durability testing.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/139wycd/advice_on_accessories_for_bambino_encore_esp/",
+        "note": "Owner-reported exact-product pattern: a Bambino workflow discussion links the MATOW 54mm ring and reports that the dosing funnel prevents substantial mess. The evidence is older and does not establish current manufacturing consistency or magnetic retention.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.bestchoice.com/review/MATOW-Stainless-Steel-Coffee-Dosing-Ring-E6he7e8wvk",
+        "note": "Summarized owner-pattern source identifies sliding off easily as the main recurring drawback while supporting general durability and cleanability. This is commercial review aggregation, not independent product testing.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=MATOW%2054mm%20Dosing%20Funnel",
+        "note": "Official CPSC product-name recall query returned zero recall records for MATOW 54mm Dosing Funnel on 2026-08-10. A no-match is not a safety or food-contact certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "Exact current ASIN, size, finish, and non-magnetic ring identity are verified",
+      "Heavy stainless-steel construction can resist casual movement on compatible rims",
+      "Outside-rim design preserves the basket opening for WDT",
+      "Bambino owner evidence supports meaningful mess reduction",
+      "Simple one-piece construction has no glued magnets or moving parts"
+    ],
+    "failureModes": [
+      "No located exact-ASIN manufacturer page or official manual",
+      "Non-magnetic friction fit can slide or lift during WDT or funnel removal",
+      "Exact fit can vary with aftermarket basket and portafilter rim geometry",
+      "Listing material and food-contact claims lack separate first-party documentation",
+      "Heavy construction does not create a positive lock",
+      "Current independent coverage is largely listing-derived"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 12,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 10,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 66
+    },
+    "decision": "hold",
+    "decisionReason": "Hold for the budget slot. The exact current listing and owner pattern support a useful heavy outside-rim funnel, but no exact manufacturer page or manual was located and sliding remains a core failure mode for the stated stays-seated problem. Commercial value is 1/5 and does not affect the hold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "coffee_rigs:B0CJJYR1BJ",
+    "siteId": "coffee_rigs",
+    "productName": "Attsky 54mm Magnetic Aluminum Espresso Dosing Funnel",
+    "model": "Attsky 54mm magnetic dosing funnel",
+    "variant": "54mm lightweight aluminum ring with eight-magnet manufacturer claim; current Amazon page blocked and color not verified",
+    "asin": "B0CJJYR1BJ",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CJJYR1BJ/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 54mm dosing funnel for a Breville Bambino or Bambino Plus that stays seated during grinding and WDT, clears the basket opening, and avoids a messy transfer step",
+    "decisionSlot": "constraint",
+    "bestFor": "No current Coffee Rigs recommendation; potentially a weight-sensitive buyer who wants an inexpensive magnetic outer-rim funnel after exact Amazon retrieval and basket-fit evidence are established",
+    "skipIf": "You need a directly verified current Amazon listing, named Bambino compatibility, independent or owner-reported fit evidence, strong support and warranty documentation, or certainty about the selected color and basket interface",
+    "mainTradeoff": "The manufacturer describes a light eight-magnet 54mm WDT funnel, but the direct Amazon page was blocked, indexed sources do not verify a Bambino-specific fit or color, and no credible exact-product ownership pattern was located",
+    "closestAlternative": "Normcore 54mm Magnetic Dosing Funnel V2 for a verified current ASIN and stronger basket-specific evidence",
+    "editorialThesis": "Attsky could fill a low-weight magnetic constraint slot, but manufacturer claims and indexed catalog traces are not enough to recommend an exact Amazon variant without a retrievable listing and ownership evidence",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CJJYR1BJ",
+        "note": "Blocked identity check: the direct current Amazon page returned an internal error. Current indexed catalog data identifies B0CJJYR1BJ as an Attsky 54mm magnetic aluminum dosing funnel, but color, current child-variant state, seller, and Bambino compatibility could not be verified directly.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.attsky.com/products/attsky-51mm-portafilter-funnel-espresso-dosing-funnel-with-magnetic-lightweight-aluminum-espresso-funnel-51mm-dosing-funnel-%E7%9A%84%E5%89%AF%E6%9C%AC",
+        "note": "Manufacturer page title and description identify a 54mm magnetic aluminum funnel with up to eight magnets and WDT use. The malformed 51mm-derived URL slug and lack of an ASIN or named Bambino mapping limit exact-variant confidence.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.merchantwords.com/asin/us/B0CJJYR1BJ",
+        "note": "Current indexed catalog trace maps B0CJJYR1BJ to the Attsky 54mm Magnetic Aluminum Espresso Dosing Funnel and indicates ongoing search visibility. It is a demand and identity cross-check, not a substitute for the direct Amazon listing or owner experience.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.u-buy.com.tw/en/product/FTHGCTX2E-attsky-54mm-portafilter-funnel-espresso-dosing-funnel-with-magnetic-lightweight-aluminum-espresso-funnel-54mm-dosing-funnel",
+        "note": "Conflicting reseller summary: the page labels the product and ASIN as 54mm but one generated fit summary says it was designed for 51mm portafilters. No reliable exact-product owner pattern was available, so this conflict is retained as a blocker rather than resolved by inference.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Attsky%2054mm%20Magnetic%20Dosing%20Funnel",
+        "note": "Official CPSC product-name recall query returned zero recall records for Attsky 54mm Magnetic Dosing Funnel on 2026-08-10. A no-match is not a safety, magnet-retention, or food-contact certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "Manufacturer maintains a 54mm magnetic funnel page",
+      "Outer-rim magnetic concept directly addresses WDT movement",
+      "Lightweight aluminum reduces handling weight",
+      "Indexed sources consistently map the ASIN to the Attsky brand and 54mm product title"
+    ],
+    "failureModes": [
+      "Direct current Amazon destination could not be retrieved",
+      "Current color and child-variant state are unverified",
+      "No named Bambino or Bambino Plus fit evidence was located",
+      "No credible exact-product independent review or owner pattern was located",
+      "Manufacturer URL slug retains a conflicting 51mm product name",
+      "Reseller fit summary conflicts between 54mm title and 51mm description",
+      "Magnet hold remains unverified across stock and aftermarket baskets"
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 10,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 7,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 59
+    },
+    "decision": "reject",
+    "decisionReason": "Reject the current candidate. The magnetic concept fits the problem, but direct Amazon retrieval failed, the current color and Bambino fit are unverified, first-party URL labeling is messy, a reseller fit summary conflicts, and no credible exact-product owner pattern was located. The score remains below hold and commercial value cannot rescue it.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
   }
 ]
