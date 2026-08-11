@@ -125,6 +125,34 @@
         "https://www.reddit.com/r/espresso/comments/1v9pe1x/new_espresso_scales_for_50_in_the_uk/",
         "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=WACACO%20Exagram%20Pro"
       ]
+    },
+    {
+      "asin": "B0BPBD7N2L",
+      "status": "keep",
+      "reason": "The exact US Amazon page still resolves to Breville Dosing Funnel 54 model BEA201NEU, ASIN B0BPBD7N2L, and names Bambino BES450 and Bambino Plus BES500 compatibility. Breville continues to document its twist-lock dose-and-tamp workflow, while current owner evidence supports less dosing mess on a stock Bambino and separately documents binding risk on an aftermarket portafilter. No exact-name CPSC recall was returned; keep the active recommendation limited to the stock or explicitly confirmed Breville portafilter.",
+      "checkedAt": "2026-08-11",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BPBD7N2L",
+        "https://www.breville.com/en-us/product/bea201neu0zna1",
+        "https://breville-production-aem-assets.s3.us-west-2.amazonaws.com/BEA201/BEA201_USCM_WEBONLY_IB_B22_FA_LR.pdf",
+        "https://www.reddit.com/r/espresso/comments/1rvklit/bambino_df54_best_bang_for_my_buck_first_station/",
+        "https://www.reddit.com/r/espresso/comments/16og8zg/breville_dosing_funnel_gets_stuck_on_normcore/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Breville%20Dosing%20Funnel"
+      ]
+    },
+    {
+      "asin": "B0BVR5QV4Q",
+      "status": "keep",
+      "reason": "The exact black 54mm V2, model and ASIN B0BVR5QV4Q were verified on August 10, and current Normcore guidance still maps its 54 mm funnel to Bambino and Bambino Plus portafilters. Owner patterns continue to support outer-rim WDT use while documenting basket-dependent magnetic hold and rounded-rim fit limits. The direct Amazon readback presented a bot check on August 11 rather than contradictory identity evidence, and no exact-name CPSC recall was returned; keep the active recommendation conditional on a flat, sufficiently magnetic basket.",
+      "checkedAt": "2026-08-11",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BVR5QV4Q",
+        "https://www.normcorewares.com/products/normcore-magnetic-dosing-funnel-v2?variant=45870949204216",
+        "https://www.normcorewares.com/pages/find-your-size",
+        "https://www.reddit.com/r/espresso/comments/1jadvd4/dosing_funnel_what_is_everyone_using/",
+        "https://coffeetime.freeflarum.com/d/2530-dosing-funnel",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%2054mm%20Magnetic%20Dosing%20Funnel"
+      ]
     }
   ]
 }

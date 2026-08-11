@@ -1432,8 +1432,8 @@
     "decision": "approve",
     "decisionReason": "Approve for the default stock-Bambino slot. Exact ASIN and model identity, named Bambino compatibility, a positive twist-lock workflow, current exact-ASIN owner evidence, official instructions, and a clean recall query support the recommendation. Copy must exclude unverified aftermarket portafilters and material claims. Commercial value is 1/5 and did not drive approval.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
+      "status": "activated",
+      "activatedAt": "2026-08-11",
       "guidePath": "/guides/budget-home-espresso-setup/"
     },
     "sourceRun": "product-discovery:2026-08-10",
@@ -1528,8 +1528,8 @@
     "decision": "approve",
     "decisionReason": "Approve for the magnetic upgrade slot, not as a universal 54mm fit. Exact ASIN identity, manufacturer 54mm/Bambino guidance, external-rim geometry, current owner patterns, and a clean recall query support WDT spill control. Basket magnetism and rim shape remain mandatory pre-purchase checks. Commercial value is 1/5 and did not drive approval.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
+      "status": "activated",
+      "activatedAt": "2026-08-11",
       "guidePath": "/guides/budget-home-espresso-setup/"
     },
     "sourceRun": "product-discovery:2026-08-10",
