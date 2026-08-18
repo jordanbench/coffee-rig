@@ -1800,5 +1800,465 @@
     "sourceRun": "product-discovery:2026-08-10",
     "researchedAt": "2026-08-10",
     "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "coffee_rigs:B09C5PWJXL",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore V4 Coffee Tamper 53.3mm",
+    "model": "53.3mm V4 flat base",
+    "variant": "Black anodized-aluminum handle, flat stainless-steel base, three interchangeable springs, US listing",
+    "asin": "B09C5PWJXL",
+    "affiliateUrl": "https://www.amazon.com/dp/B09C5PWJXL/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 53.3mm self-leveling tamper for the stock Breville Bambino or Bambino Plus basket that reduces untamped edge residue without binding or relying on unsupported pressure claims",
+    "decisionSlot": "default",
+    "bestFor": "A Bambino or Bambino Plus owner using a stock 54mm tapered basket who wants a level-guided flat tamp and interchangeable spring feel after confirming that the exact basket clears a 53.3mm base",
+    "skipIf": "Your basket does not freely accept a 53.3mm gauge, you want an audible pressure click, you do not want to swap or maintain internal springs, or you expect a particular spring rating to improve extraction by itself",
+    "mainTradeoff": "The leveling plate and close-fitting flat base reduce technique and edge-coverage variability, but basket taper still controls clearance and the 15lb, 25lb, and 30lb markings are selectable spring settings rather than independent proof of better espresso",
+    "closestAlternative": "MHW-3BOMBER 53.35mm Flash Tamper for audible feedback after its exact Amazon model-code conflict and exact-variant stock-basket evidence are resolved",
+    "editorialThesis": "The flat-base Normcore V4 is the lowest-ambiguity self-leveling choice for a compatible stock Bambino basket because the exact ASIN, official 53.3mm design, named-machine owner pattern, and maintenance limits are documented; copy must require a basket-clearance check and avoid extraction promises",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09C5PWJXL",
+        "note": "Verified exact current identity: the US page resolves to B09C5PWJXL and names the black Normcore V4 53.3mm spring-loaded tamper with a flat base, model 53.3mm, and 15lb, 25lb, and 30lb replacement springs. The page names tapered Breville 54mm portafilters including Bambino Plus; pressure and extraction language remains seller copy, not Coffee Rigs testing.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/normcore-spring-loaded-tamper-v4?variant=40443114946756",
+        "note": "Verified manufacturer product family and selected-size guidance: Normcore lists the V4 in black 53.3mm, documents the basket-rim leveling plate, interchangeable 15lb, 25lb, and 30lb springs, flat tamp workflow, included stand, and warnings against dishwasher use, strong detergent, and soaking. Compatibility is stated for many Breville/Sage 54mm models rather than every basket.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/1ker6gc/what_accessories_should_i_get_for_my_bambino_plus/",
+        "note": "Current exact-ASIN owner pattern: a 2025 Bambino Plus owner links B09C5PWJXL and reports liking the Normcore, while the broader thread repeatedly treats a grinder and scale as higher-priority purchases. This supports fit and workflow for that owner, not a universal extraction improvement.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/1qdlbs7/normcore_spring_load_tamper_vs_palm_tamper_budget/",
+        "note": "Recent 2026 owner discussion specifically asks which 53.3mm option works with a Breville Bambino portafilter and reports strong satisfaction with the V4 spring-loaded model. This is owner experience, not a controlled fit test across all stock-basket revisions.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/xwouqo/bbp_with_normcore_spring_loaded_tamper_v4/",
+        "note": "Failure-pattern evidence: a 53.3mm V4 owner reports contact where a stock tapered basket narrows, while an IMS basket worked better. This supports a mandatory free-clearance check before loading coffee and prevents a universal stock-basket fit claim.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20V4%2053.3mm%20Tamper",
+        "note": "Official CPSC product-name recall query returned zero recall records for Normcore V4 53.3mm Tamper on 2026-08-18. A no-match is not a safety, food-contact, pressure-calibration, or compatibility certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Exact current US ASIN, 53.3mm flat-base variant, color, and model are verified",
+      "Leveling plate rests on the basket rim instead of requiring visual alignment",
+      "Flat base avoids a separate ripple-pattern extraction claim",
+      "Three included springs let the owner choose feel without buying another tamper",
+      "Exact-ASIN Bambino owner patterns support the intended workflow",
+      "Manufacturer publishes cleaning limits and included components"
+    ],
+    "failureModes": [
+      "A 53.3mm base can contact the taper of some stock or aftermarket baskets and bind if clearance is not checked empty",
+      "Grounds can collect around the leveling plate and moving gap",
+      "Spring labels do not establish real puck pressure or better extraction in a specific dose and basket",
+      "The tool has no audible completion click",
+      "Dishwasher use, strong detergent, and soaking can affect the mechanism",
+      "A tamper cannot compensate for an unsuitable grinder, uneven distribution, or an overfilled basket"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 25,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 14,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 12,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 89
+    },
+    "decision": "approve",
+    "decisionReason": "Approve for the default self-leveling slot with a mandatory empty-basket clearance check. The exact flat-base ASIN, official 53.3mm V4 documentation, multiple Bambino owner patterns, disclosed taper risk, maintenance guidance, and clean recall query support a bounded recommendation. Do not promise a specific pressure, extraction gain, or universal basket fit. Commercial value is 1/5 and did not drive approval.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": "/guides/budget-home-espresso-setup/"
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "coffee_rigs:B0BCJSV78X",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore V4 Spring Loaded Tamper 53.3mm with Ripple Base",
+    "model": "53.3mm Tamper With Ripple Base",
+    "variant": "Black anodized-aluminum handle, stainless-steel ripple base, three interchangeable springs, US listing",
+    "asin": "B0BCJSV78X",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BCJSV78X/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 53.3mm self-leveling tamper for the stock Breville Bambino or Bambino Plus basket that reduces untamped edge residue without binding or relying on unsupported pressure claims",
+    "decisionSlot": "upgrade",
+    "bestFor": "No current Coffee Rigs recommendation; potentially a compatible 54mm-basket owner who specifically wants the V4 mechanism with a ripple base after independently deciding that the surface pattern matters",
+    "skipIf": "You want the simplest supported tamp, need evidence that a ripple pattern improves extraction over a flat base, use a basket that narrows below 53.3mm, or want a distinct benefit over the approved flat-base V4",
+    "mainTradeoff": "It retains the documented V4 leveling and spring mechanism, but the ripple surface adds cost, cleaning detail, and a twist instruction without credible comparative evidence that it improves the stated edge-residue problem",
+    "closestAlternative": "Normcore V4 53.3mm flat base B09C5PWJXL for the same level-guided mechanism without an unsupported ripple-specific extraction thesis",
+    "editorialThesis": "The ripple-base child is a verified product but not a separate recommendation: its seller and manufacturer extraction language is not backed by a controlled flat-versus-ripple comparison, so it is redundant for this reader decision",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BCJSV78X",
+        "note": "Verified exact current identity: B0BCJSV78X resolves to the Normcore 53.3mm V4 spring-loaded tamper with stainless-steel ripple base, item model 53.3mm Tamper With Ripple Base, and three replacement springs. The listing names Bambino Plus compatibility and instructs a simultaneous clockwise turn; ripple extraction language is treated as a seller claim.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/normcore-spring-loaded-tamper-v4-with-ripple-base",
+        "note": "Verified manufacturer product family: the current page offers a 53.3mm V4 ripple-base variant, documents the leveling plate, 15lb, 25lb, and 30lb springs, clockwise-turn instruction, included stand, and no-dishwasher warning. Claims about controlled channeling and even saturation remain manufacturer claims without comparative evidence located in this run.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://blog.golovatyi.info/2023/08/29/%D0%B0%D0%BA%D1%81%D0%B5%D1%81%D1%83%D0%B0%D1%80%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%B8%D0%B3%D0%BE%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B5%D1%81%D0%BF%D1%80%D0%B5%D1%81%D0%BE/",
+        "note": "Exact-ASIN owner report: a Bambino Plus accessories article identifies B0BCJSV78X as the purchased 53.3mm ripple tamper and says it can reduce beginner technique mistakes, while also noting that the workflow can be done without it. It does not compare extraction against the flat-base V4.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/1czcbvw/my_first_setup/",
+        "note": "Owner discussion around the exact flat-base V4 ASIN specifically calls the titanium ripple version unnecessary. This is not controlled testing, but it reinforces the absence of a distinct reader benefit for the ripple upgrade.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%2053.3mm%20Ripple%20Tamper",
+        "note": "Official CPSC product-name recall query returned zero recall records for Normcore 53.3mm Ripple Tamper on 2026-08-18. A no-match is not a safety, food-contact, pressure-calibration, compatibility, or extraction certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Exact current ASIN, 53.3mm size, ripple base, and model are verified",
+      "Leveling plate and interchangeable-spring mechanism mirror the documented V4 workflow",
+      "Manufacturer publishes size choices, included parts, and cleaning limits",
+      "An exact-ASIN Bambino Plus owner report confirms real use of the variant"
+    ],
+    "failureModes": [
+      "No credible flat-versus-ripple comparison was located for edge residue, extraction, or taste",
+      "Ripple grooves and the instructed twist add cleaning and workflow complexity",
+      "A close 53.3mm base can contact a tapered basket below the rim",
+      "Grounds can collect around the leveling plate and moving gap",
+      "Spring and ripple claims can create false precision when dose, grind, and distribution dominate the result",
+      "It duplicates the approved flat-base V4 without a distinct evidence-backed slot"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 10,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 72
+    },
+    "decision": "reject",
+    "decisionReason": "Reject as a redundant upgrade. The exact ASIN and V4 mechanism are documented, but no credible comparison supports a ripple-specific advantage for edge residue or extraction, the surface adds a twist and cleaning burden, and the approved flat-base V4 already fills the reader slot. Commercial value is 1/5 and cannot create differentiation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "coffee_rigs:B0BMXNLVM4",
+    "siteId": "coffee_rigs",
+    "productName": "IKAPE V3 Calibrated Coffee Tamper 53.3mm",
+    "model": "IK-Tamper-V3",
+    "variant": "Black 53.3mm dual-spring tamper with threaded stainless-steel base, US listing",
+    "asin": "B0BMXNLVM4",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BMXNLVM4/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 53.3mm self-leveling tamper for the stock Breville Bambino or Bambino Plus basket that reduces untamped edge residue without binding or relying on unsupported pressure claims",
+    "decisionSlot": "budget",
+    "bestFor": "No current Coffee Rigs recommendation while the exact Amazon page contradicts its broad Breville title by saying the 53mm size does not fit the Sage Bambino 54mm basket",
+    "skipIf": "You use a stock Bambino basket, need unambiguous named-machine fit, expect the advertised 30lb spring to guarantee extraction, or do not want to resolve conflicting first-party and listing compatibility language",
+    "mainTradeoff": "The exact ASIN and manufacturer document a 53.3mm dual-spring V3 concept, but the current Amazon FAQ explicitly excludes the Sage Bambino basket, which directly conflicts with the reader problem",
+    "closestAlternative": "Normcore V4 53.3mm flat base B09C5PWJXL after confirming empty-basket clearance",
+    "editorialThesis": "A current exact-listing fit exclusion outweighs broad Breville-family marketing; Coffee Rigs should not recommend this ASIN for a stock Bambino basket unless IKAPE and Amazon reconcile the model-specific guidance",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BMXNLVM4",
+        "note": "Verified exact current identity and blocking conflict: B0BMXNLVM4 resolves to the IKAPE 53.3mm calibrated spring-loaded tamper, model IK-Tamper-V3, while the page FAQ says the 53mm size does not fit the Sage The Bambino 54mm basket. That exact named-machine exclusion overrides the broad Breville-series title.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://ikapestore.com/products/ikape-v3-calibrated-coffee-tamper",
+        "note": "Verified manufacturer V3 product family: IKAPE offers a 53.3mm silver or black variant, dual springs, a nominal 30lb main spring, cylindrical shaft, aluminum shell, and 304-stainless base. The page does not name Bambino compatibility or resolve the exact Amazon FAQ exclusion.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/1iv634o/how_to_buy_differentsized_tamper_discs_for_same/",
+        "note": "Exact-ASIN ownership context: a 2025 owner links B0BMXNLVM4 as the 53.3mm disc concept while trying to adapt an existing IKAPE tamper after moving to a Bambino. The thread does not confirm that this exact complete black V3 clears the stock Bambino basket.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.in/products/585287277-ikape-53-3mm-espresso-tamper-black",
+        "note": "Clearly summarized exact-ASIN review pattern: owners describe the spring-loaded level-guided workflow positively, but one recurring limitation is wishing the base were wider. Reseller-hosted reviews are not independent testing and do not resolve the current Bambino fit exclusion.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=IKAPE%2053.3mm%20Tamper",
+        "note": "Official CPSC product-name recall query returned zero recall records for IKAPE 53.3mm Tamper on 2026-08-18. A no-match is not a safety, food-contact, pressure-calibration, or compatibility certification and does not resolve the fit conflict.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Exact current ASIN, black 53.3mm variant, and IK-Tamper-V3 model are verified",
+      "Manufacturer documents the dual-spring and threaded-base construction",
+      "Level-guided concept directly targets tilted tamping",
+      "Current owner summaries support sturdy construction and ease of use"
+    ],
+    "failureModes": [
+      "Current Amazon FAQ explicitly says the 53mm size does not fit the Sage Bambino 54mm basket",
+      "Broad Breville-series title conflicts with the named Bambino exclusion",
+      "Manufacturer page does not provide named Bambino compatibility",
+      "Exact complete-tool Bambino stock-basket ownership evidence is absent",
+      "Nominal 30lb language may be interpreted as extraction proof even though it is only a spring claim",
+      "Threaded and moving components can retain grounds and require cleaning"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 16,
+      "evidenceConfidence": 10,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 5,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 53
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for the stock Bambino problem. The exact ASIN and V3 identity are current, but Amazon's own FAQ explicitly excludes the Sage Bambino 54mm basket, the manufacturer page does not resolve that conflict, and exact complete-tool stock-basket evidence is missing. Commercial value is 1/5 and cannot rescue a named-machine fit failure.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "coffee_rigs:B0CRR71LG5",
+    "siteId": "coffee_rigs",
+    "productName": "MHW-3BOMBER 53.35mm Flash Constant Pressure Tamper",
+    "model": "T6177T-OS in title; T6077T#us in detail table",
+    "variant": "53.35mm titanium-black ripple base, three-spring mechanism with sound feedback, US listing",
+    "asin": "B0CRR71LG5",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CRR71LG5/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 53.3mm self-leveling tamper for the stock Breville Bambino or Bambino Plus basket that reduces untamped edge residue without binding or relying on unsupported pressure claims",
+    "decisionSlot": "upgrade",
+    "bestFor": "A stock 54mm-basket owner who values audible completion feedback and a close 53.35mm base after the exact Amazon model code and exact titanium-ripple stock-basket evidence are reconciled",
+    "skipIf": "You need clean exact-model identity today, want a flat base, prefer a lower nominal spring force without opening the tool, or do not want ripple and 30lb extraction language in the recommendation",
+    "mainTradeoff": "The close base, horizontal guide, and click feedback directly address level and repeatable tamping, but the current listing conflicts between model T6177T-OS and T6077T#us and the located stock-basket owner pattern does not identify the exact titanium-ripple child",
+    "closestAlternative": "Normcore V4 53.3mm flat base B09C5PWJXL for cleaner exact-model identity and a simpler flat-base recommendation",
+    "editorialThesis": "The MHW-3BOMBER could earn an audible-feedback upgrade slot, but model-code conflict and product-family-level stock-basket evidence make approval premature even though the concept and score are otherwise strong",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CRR71LG5",
+        "note": "Current exact ASIN and selected variant are retrievable: B0CRR71LG5 shows 53.35mm and Titanium Black Ripple Base with a three-spring 30lb click mechanism. Identity is blocked because the title says T6177T-OS while the product-detail table says T6077T#us; the page also uses inconsistent Breville/Sega naming.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://mhw3bomber.com/products/mhw-3-bomber-30lbs-espresso-coffee-tamper",
+        "note": "Verified manufacturer Flash Tamper 2.0 family: MHW-3BOMBER offers flat or ripple bases in 53.35mm, documents three springs, nominal 30lb sound feedback, an included 15lb spring, and named Bambino Plus fit. The current page does not map the Amazon ASIN or reconcile the two model codes.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/1owqrcw/which_basket_and_levelling_tamper_for_bambino/",
+        "note": "Recent stock-basket owner pattern: a 2025 Bambino Plus owner reports that a 53.35mm MHW-3BOMBER Flash Constant Pressure Tamper fits and works with the stock double basket. The report does not name ASIN B0CRR71LG5, model T6177T-OS, or the titanium-black ripple child.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/BrevilleCoffee/comments/1i5275d/good_calibrated_tamper/",
+        "note": "Comparative owner pattern: Breville owners describe the 53.35mm MHW-3BOMBER click feedback as clearer than the Normcore V4 and name it for Sage/Breville machines. The discussion is product-family evidence and does not resolve the exact Amazon child or model-code conflict.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=MHW-3BOMBER%2053.35mm%20Tamper",
+        "note": "Official CPSC product-name recall query returned zero recall records for MHW-3BOMBER 53.35mm Tamper on 2026-08-18. A no-match is not a safety, food-contact, pressure-calibration, compatibility, or model-identity certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Exact current ASIN, selected 53.35mm size, titanium-black color, and ripple base are visible",
+      "Horizontal guide and sound feedback address tilt and completion ambiguity",
+      "Manufacturer documents the Flash Tamper 2.0 family and named Bambino Plus fit",
+      "Recent stock-double-basket owner evidence supports the 53.35mm product family",
+      "Included alternate spring reduces dependence on one nominal force"
+    ],
+    "failureModes": [
+      "Amazon title and product-detail table disagree on T6177T-OS versus T6077T#us",
+      "Located stock-basket owner reports do not identify the exact titanium-black ripple child ASIN",
+      "Ripple-base extraction claims lack a controlled flat-base comparison",
+      "A 53.35mm base has even less taper clearance than 53.3mm and requires an empty-basket check",
+      "Click and nominal 30lb claims can be mistaken for measured puck pressure or guaranteed extraction",
+      "Manufacturer warns that the mechanism requires specific disassembly for spring changes"
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 14,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 75
+    },
+    "decision": "hold",
+    "decisionReason": "Hold for the audible-feedback upgrade slot. The 53.35mm concept, manufacturer page, stock-basket owner pattern, and clean recall query are promising, but the exact Amazon listing conflicts on its model code and exact titanium-ripple child ownership evidence is missing. Resolve T6177T-OS versus T6077T#us before approval; commercial value is 1/5 and did not affect the hold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "coffee_rigs:B07W6DSFD1",
+    "siteId": "coffee_rigs",
+    "productName": "CREMA Coffee Products 53.3mm Tamper & Distributor Combo",
+    "model": "DIS-001-B",
+    "variant": "Black double-sided 53.3mm adjustable-depth tamper and distributor, US listing",
+    "asin": "B07W6DSFD1",
+    "affiliateUrl": "https://www.amazon.com/dp/B07W6DSFD1/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a 53.3mm self-leveling tamper for the stock Breville Bambino or Bambino Plus basket that reduces untamped edge residue without binding or relying on unsupported pressure claims",
+    "decisionSlot": "other",
+    "bestFor": "No current Coffee Rigs recommendation for the self-leveling slot; potentially a Bambino owner who deliberately wants a manual dual-sided distribution and fixed-depth tamp tool and accepts setup changes when dose changes",
+    "skipIf": "You want a spring-guided self-leveling press, change doses or baskets often, do not want to set tamp depth manually, or want a tool that separates distribution from tamping",
+    "mainTradeoff": "The precise 53.3mm two-sided tool has clear Bambino compatibility and no internal spring mechanism, but it is not self-leveling, requires manual depth setup, and can trap grounds between moving sections",
+    "closestAlternative": "Normcore V4 53.3mm flat base B09C5PWJXL for a level-guided spring mechanism and a clearer solution to the stated reader problem",
+    "editorialThesis": "The Crema combo is a verified Bambino accessory but solves a different workflow: manual surface distribution plus fixed-depth tamping. It should not displace a true self-leveling tamper in this decision slot",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07W6DSFD1",
+        "note": "Verified exact current identity: B07W6DSFD1 resolves to the black CREMA 53.3mm double-sided adjustable-depth hand tamper and distributor, model DIS-001-B. The listing does not describe a spring-loaded or basket-rim self-leveling mechanism.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://cremacoffeeproducts.com/collections/all-products/products/53mm-tamper-distributor-combo",
+        "note": "Verified manufacturer product family and workflow: Crema lists 53.3mm fit for Bambino and Bambino Plus, instructs the user to adjust distributor depth, flip the tool, tamp by hand, then set tamp depth to the result. This confirms a manual adjustable-depth tool rather than a self-leveling spring tamper.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://cremacoffeeproducts.com/collections/all-products/products/53mm-tamper-distributor-combo",
+        "note": "Manufacturer-hosted exact-product owner pattern: a January 2025 black-variant review reports that grounds collect between the metal distributor and black body and disturb dosing, while other owners describe the heavy tool as easy to adjust. These are owner reports hosted by the seller, not independent testing.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/1czcbvw/my_first_setup/",
+        "note": "Relevant owner workflow pattern: experienced Bambino users in the thread prefer separate tools over combined devices because one function can be replaced independently and recommend a conventional V4 tamper. This is editorial context, not an exact Crema failure test.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Crema%2053.3mm%20Tamper",
+        "note": "Official CPSC product-name recall query returned zero recall records for Crema 53.3mm Tamper on 2026-08-18. A no-match is not a safety, food-contact, compatibility, distribution, or extraction certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Exact current black ASIN and DIS-001-B model are verified",
+      "Manufacturer explicitly names Bambino and Bambino Plus compatibility",
+      "53.3mm base is designed for closer edge coverage than a nominal 53mm tool",
+      "Simple manual mechanism avoids hidden pressure-spring calibration",
+      "Manufacturer publishes a clear setup sequence and current owner reviews"
+    ],
+    "failureModes": [
+      "It is not a basket-rim self-leveling or spring-loaded tamper",
+      "Tamp depth must be set manually and reconsidered when dose or basket changes",
+      "Surface distribution can pre-compress the top layer before tamping",
+      "Grounds can collect between the metal section and body and alter the dose",
+      "Two functions in one tool create a replacement and cleaning coupling",
+      "Close 53.3mm fit still requires a basket-clearance check"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 17,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 64
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for this reader problem despite clear identity and Bambino compatibility. The Crema is a manual adjustable-depth tamper/distributor, not a self-leveling spring tamper; it requires dose-sensitive setup and introduces a grounds-trapping failure mode. It solves a different workflow and is redundant here. Commercial value is 1/5 and cannot rescue weak problem fit.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
   }
 ]
