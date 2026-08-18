@@ -153,6 +153,19 @@
         "https://coffeetime.freeflarum.com/d/2530-dosing-funnel",
         "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%2054mm%20Magnetic%20Dosing%20Funnel"
       ]
+    },
+    {
+      "asin": "B09C5PWJXL",
+      "status": "keep",
+      "reason": "The exact US Amazon product document still maps ASIN B09C5PWJXL to the black flat-base Normcore V4 in 53.3mm, and Normcore continues to document the selected size, rim-leveling plate, interchangeable springs, and care limits. Owner patterns support Bambino use but also document contact where a tapered basket narrows, so the active recommendation requires an empty-basket clearance check and makes no pressure or extraction promise. No exact-name CPSC recall was returned on activation day.",
+      "checkedAt": "2026-08-18",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B09C5PWJXL",
+        "https://www.normcorewares.com/products/normcore-spring-loaded-tamper-v4?variant=40443114946756",
+        "https://www.reddit.com/r/espresso/comments/1ker6gc/what_accessories_should_i_get_for_my_bambino_plus/",
+        "https://www.reddit.com/r/espresso/comments/xwouqo/bbp_with_normcore_spring_loaded_tamper_v4/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20V4%2053.3mm%20Tamper"
+      ]
     }
   ]
 }

@@ -1891,8 +1891,8 @@
     "decision": "approve",
     "decisionReason": "Approve for the default self-leveling slot with a mandatory empty-basket clearance check. The exact flat-base ASIN, official 53.3mm V4 documentation, multiple Bambino owner patterns, disclosed taper risk, maintenance guidance, and clean recall query support a bounded recommendation. Do not promise a specific pressure, extraction gain, or universal basket fit. Commercial value is 1/5 and did not drive approval.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
+      "status": "activated",
+      "activatedAt": "2026-08-18",
       "guidePath": "/guides/budget-home-espresso-setup/"
     },
     "sourceRun": "product-discovery:2026-08-18",
