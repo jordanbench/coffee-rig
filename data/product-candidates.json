@@ -2260,5 +2260,446 @@
     "sourceRun": "product-discovery:2026-08-18",
     "researchedAt": "2026-08-18",
     "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "coffee_rigs:B0BPCHCZH4",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore WDT Distribution Tool V3 with Stand",
+    "model": "V3",
+    "variant": "Black anodized-aluminum handle and stand, 9-prong tool with 0.25mm and 0.3mm needle sets, US listing",
+    "asin": "B0BPCHCZH4",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BPCHCZH4/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact manual WDT tool with replaceable fine needles and a stable storage method for the Breville Bambino or Bambino Plus funnel workflow without claiming that the accessory guarantees better extraction",
+    "decisionSlot": "default",
+    "bestFor": "A Bambino or Bambino Plus owner who already uses a dosing funnel and wants a size-agnostic manual tool with two fine-needle options, replacements, and a countertop stand",
+    "skipIf": "You need the needles to retract fully into the handle, cannot keep the stand away from children or pets, or do not want to install and occasionally replace fine spring-wire needles",
+    "mainTradeoff": "The simple nine-needle tool fits the 54mm workflow without a size-specific collar and includes two fine gauges, but the needles remain exposed outside the stand and installation can bend or fail to retain individual needles",
+    "closestAlternative": "Subminimal Flick B0CL58CKFK after its current Amazon color and model-code conflict is resolved for the retractable-storage slot",
+    "editorialThesis": "The black V3 is the lowest-ambiguity current manual WDT option in this evidence set because its exact Amazon child matches Normcore's current V3 specifications and its stand, replacement needles, and size-agnostic use solve the Bambino workflow without a 54mm fit claim",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BPCHCZH4",
+        "note": "Verified exact current identity: B0BPCHCZH4 is the black Normcore V3 with stand, model V3, nine needle positions, and included 0.25mm and 0.3mm needle sets. Amazon's extraction language is seller copy and is not treated as an outcome guarantee.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/normcore-wdt-distribution-tool-v3",
+        "note": "Verified manufacturer specifications: black is a current V3 color; the 103mm by 31mm anodized-aluminum tool accepts nine 50mm 304-stainless needles and includes nine 0.25mm needles, nine 0.3mm needles, and a stand. The page does not establish taste or extraction outcomes.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://beanandburr.com/accessories/normcore-wdt-tool-review",
+        "note": "Current independent review dated 2026-07-31 identifies the Normcore V3, finds its nine fine needles and stand useful across basket sizes, and flags the added workflow step plus needle bending when handled roughly. Its taste and channeling conclusions are not adopted as Coffee Rigs testing.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.in/products/505470776-normcore-wdt-distribution-tool-with-stand-v3-9-prong-needle",
+        "note": "Current V3 owner summaries include easy daily use and solid construction, but also report difficult initial needle insertion, off-center slots, bending during setup, and on one walnut unit an inability to secure needles as expected. These reports are patterns, not rates, and the walnut-specific mechanism report is not assumed to apply to the black child.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20WDT%20Distribution%20Tool%20V3",
+        "note": "Official CPSC product-name recall query returned zero recall records on 2026-08-24. A no-match is not a sharp-object, food-contact, child-safety, durability, compatibility, or extraction certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact black ASIN, V3 model, and included needle sets match the current manufacturer page",
+      "Manual freehand use is not constrained by a 54mm or 58mm collar",
+      "Both 0.25mm and 0.3mm needles are included for a bounded fine-needle choice",
+      "Replacement needles and a dedicated stand reduce replacement and storage burden",
+      "Current independent and owner evidence identifies real setup and bending tradeoffs"
+    ],
+    "failureModes": [
+      "Fine needles can bend during installation or rough use",
+      "Individual needles can be difficult to seat or retain if a slot is misaligned",
+      "The stand does not make exposed needles child-safe when the tool is removed",
+      "Deep or forceful stirring can move grounds toward the basket wall instead of merely breaking clumps",
+      "The extra puck-prep step may be abandoned when speed matters",
+      "No source proves that this tool guarantees less channeling, better extraction, or better taste"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 25,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 11,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 85
+    },
+    "decision": "approve",
+    "decisionReason": "Approve as the default manual WDT option for a Bambino-plus-funnel workflow, with explicit sharp-needle handling and no extraction promise. Exact Amazon identity, matching current first-party specifications, current independent review, owner failure patterns, and the official recall query clear every hard gate. Commercial value is 1/5 and did not drive the decision.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "coffee_rigs:B0CL58CKFK",
+    "siteId": "coffee_rigs",
+    "productName": "Subminimal Flick WDT Tool",
+    "model": "SUB-FK-01-BL",
+    "variant": "Berry compact retractable WDT tool on the current US Amazon child; product table carries the black-model code SUB-FK-01-BL",
+    "asin": "B0CL58CKFK",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CL58CKFK/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact manual WDT tool with replaceable fine needles and a stable storage method for the Breville Bambino or Bambino Plus funnel workflow without claiming that the accessory guarantees better extraction",
+    "decisionSlot": "safety",
+    "bestFor": "A Bambino owner who prioritizes fully retractable needle storage, one-handed deployment, and magnetic mounting after exact US color and model identity are reconciled",
+    "skipIf": "You require a clean exact-variant record today, prefer a basic fixed-needle tool, or do not want a retracting mechanism with hairpin-style replacement needles",
+    "mainTradeoff": "The retracting design protects needles and reduces counter clutter, but the current Amazon child says Berry while its model code ends in BL and Subminimal's current direct page exposes black and silver selections rather than a matching Berry identity",
+    "closestAlternative": "Normcore V3 B0BPCHCZH4 for a fully verified black manual tool with a stand and two fine-needle sets",
+    "editorialThesis": "The Flick has the strongest protected-storage mechanism in the set and credible Bambino owner use, but Coffee Rigs should not approve a Berry Amazon child carrying a black-model code until the manufacturer maps that exact variant",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CL58CKFK",
+        "note": "Current Amazon identity is internally inconsistent: the child ASIN is B0CL58CKFK and the product overview says Berry, while the product table lists model and manufacturer part number SUB-FK-01-BL. The listing includes the stand, replacement needles, and wall mount.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://subminimal.com/products/flick",
+        "note": "Current manufacturer page documents a retractable Flick, stand, adhesive magnetic mount, six replacement needles, hex key, 0.5mm installed needles, and 0.35mm replacements. Its current visible versions are black and silver, so it does not resolve the Berry child carrying a BL model code.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://thebasicbarista.com/en-us/blogs/reviews/subminimal-flick-wdt-tool-review",
+        "note": "Independent 2025 hands-on review praises the compact one-handed retracting and magnetic-storage workflow and lists the stand, mount, replacements, and hex key. It reports 0.4mm blunt needles, which differs from the current manufacturer's 0.5mm installed and 0.35mm replacement specification.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.jp/products/617974825-flick-wdt-espresso-distribution-tool-stirrer-tool-for-barista-grade",
+        "note": "Current owner summaries include named Sage Bambino Plus use and praise retractable storage; another 2026 owner reports a body crack after about one year. These are owner reports, not a failure rate, and they do not resolve the current US child-color conflict.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Subminimal%20Flick%20WDT%20Tool",
+        "note": "Official CPSC product-name recall query returned zero recall records on 2026-08-24. A no-match is not a sharp-object, mechanism-durability, child-safety, food-contact, or extraction certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Needles retract into the body for protected storage",
+      "Compact one-handed deployment and magnetic mount suit a small Bambino station",
+      "Replacement needles, stand, mount, and tool are included",
+      "Current owner evidence includes named Bambino Plus use",
+      "Independent review documents the real storage and travel advantages"
+    ],
+    "failureModes": [
+      "Amazon says Berry while the product code indicates BL and the current direct page does not resolve the mapping",
+      "Needle-gauge descriptions vary between current manufacturer and independent review",
+      "Hairpin-style needle changes require tools and more handling than straight push-in replacements",
+      "The retracting mechanism adds parts that can wear, crack, or jam",
+      "Frequent fidgeting can create needless mechanism wear",
+      "No source proves guaranteed extraction or taste improvement"
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 25,
+      "evidenceConfidence": 14,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 15,
+      "riskAndReturnFit": 11,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 82
+    },
+    "decision": "hold",
+    "decisionReason": "Hold despite an 82/100 score. The retractable mechanism is the clearest safety-storage solution and named Bambino use exists, but the current Amazon child is Berry while its model code indicates BL and the current manufacturer page does not map that exact child. The exact-variant and bounded-claims gates remain false. Commercial value is 1/5 and cannot override identity conflict.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "coffee_rigs:B0C72KPM1F",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore WDT Distribution Tool V2.1 with Stand",
+    "model": "V2.1",
+    "variant": "Black tool with magnetic stand; Amazon says 8-prong 0.23mm with 16 extra needles",
+    "asin": "B0C72KPM1F",
+    "affiliateUrl": "https://www.amazon.com/dp/B0C72KPM1F/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact manual WDT tool with replaceable fine needles and a stable storage method for the Breville Bambino or Bambino Plus funnel workflow without claiming that the accessory guarantees better extraction",
+    "decisionSlot": "budget",
+    "bestFor": "A Bambino owner who wants a smaller magnetic-stand tool after Normcore reconciles the exact needle diameter and replacement count for the black Amazon child",
+    "skipIf": "You need verified needle specifications now, want two needle gauges in the box, or do not want push-in needles that owners report can be difficult to install or replace",
+    "mainTradeoff": "It is compact, size-agnostic, and includes a stand and many replacements on Amazon, but the exact listing says 0.23mm and 16 extras while Normcore now calls the V2.1 0.25mm and lists 5-8 extra needles",
+    "closestAlternative": "Normcore V3 B0BPCHCZH4 for a matched current specification and two included needle gauges",
+    "editorialThesis": "The V2.1 could be the simpler lower-burden alternative to V3, but its exact Amazon and manufacturer specifications currently disagree on the central needle attribute and replacement count",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0C72KPM1F",
+        "note": "Verified current black child, ASIN B0C72KPM1F, model V2.1. Amazon identifies an 8-prong 0.23mm tool with stand and 16 extra needles.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/0-23mm-wdt-distribution-tool-v2-1-with-stand",
+        "note": "Current manufacturer page keeps a 0-23mm URL but titles and specifies the V2.1 as 0.25mm, with 50mm push-in 304-stainless needles, optional magnetic stand, and 5-8 extra replacements. This does not match the exact Amazon child copy.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.in/products/542256988-normcore-wdt-distribution-tool-v2-1-with-stand-0-23mm",
+        "note": "Current exact-ASIN owner summary reports that the base could not be unscrewed as expected and needle installation was difficult, although the tool worked with a dosing funnel once assembled. This is an owner report, not a measured failure rate.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20WDT%20Distribution%20Tool%20V2.1",
+        "note": "Official CPSC product-name recall query returned zero recall records on 2026-08-24. A no-match is not a sharp-object, food-contact, child-safety, durability, compatibility, or extraction certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact black ASIN, V2.1 model, and stand configuration are current",
+      "Compact manual tool is not tied to a basket diameter",
+      "Magnetic stand provides a stable countertop home",
+      "Both listing and manufacturer describe replaceable fine needles",
+      "Owner evidence confirms use with a dosing funnel once assembled"
+    ],
+    "failureModes": [
+      "0.23mm Amazon copy conflicts with the current 0.25mm manufacturer specification",
+      "Sixteen Amazon extras conflict with the manufacturer's current 5-8 replacement range",
+      "Push-in needle installation can be difficult and may bend a fine needle",
+      "Exposed needles still require careful placement away from children and pets",
+      "No source proves guaranteed extraction or taste improvement"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 14,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 9,
+      "riskAndReturnFit": 10,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 75
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. Exact ASIN, model, color, and stand configuration are verified, but Amazon and the current manufacturer page conflict on needle diameter and replacement count, the product's defining specifications. The bounded-claims gate therefore fails despite a 75/100 score. Commercial value is 1/5 and did not affect the hold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "coffee_rigs:B09V1B152R",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore WDT Distribution Tool V2",
+    "model": "V2",
+    "variant": "Black 9-prong 0.3mm manual tool with five replacement needles and metal storage plate, US listing",
+    "asin": "B09V1B152R",
+    "affiliateUrl": "https://www.amazon.com/dp/B09V1B152R/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact manual WDT tool with replaceable fine needles and a stable storage method for the Breville Bambino or Bambino Plus funnel workflow without claiming that the accessory guarantees better extraction",
+    "decisionSlot": "other",
+    "bestFor": "No current Coffee Rigs recommendation; potentially an owner who wants a basic magnet-mounted manual tool after an exact current first-party page is restored",
+    "skipIf": "You need a countertop stand, current matching first-party documentation, protected needle storage, or a design that clearly retains every replacement needle",
+    "mainTradeoff": "The exact Amazon page documents a simple nine-prong tool that works inside a funnel, but the current Normcore page using the Needle Distributor V2 name is a different 54mm or 58mm rotary product, leaving this older manual V2 without matching current first-party support",
+    "closestAlternative": "Normcore V3 B0BPCHCZH4 for a current exact model, stand, two needle gauges, and matching manufacturer documentation",
+    "editorialThesis": "The older manual V2 is inexpensive and simple but is superseded by better-documented current options and fails the first-party identity ladder because Normcore now uses the similar V2 name for a different mechanism",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09V1B152R",
+        "note": "Verified current Amazon identity: B09V1B152R is the black manual V2 with nine 0.3mm needles, five extras, a metal plate, and no countertop stand. The product table lists model V2. An unrelated lithium-battery field shows catalog quality is imperfect.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/normcore-needle-distributor-tool-v2",
+        "note": "Current Normcore page with the Needle Distributor Tool V2 name describes a different size-specific rotating 54mm or 58mm tool with a bristle-cleaning base, not the simple B09V1B152R manual handle. It is evidence of an unresolved current first-party identity gap, not support for the Amazon variant.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/espresso/comments/wvqwr5/normcore_needle_distributor_v2/",
+        "note": "Owner discussion distinguishes the simple manual Normcore V2 from the similarly named rotary needle distributor and reports that the manual tool stores magnetically; another participant reports preferring a simpler handmade tool. This older discussion does not replace current first-party documentation.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20WDT%20Distribution%20Tool%20V2",
+        "note": "Official CPSC product-name recall query returned zero recall records on 2026-08-24. A no-match is not a sharp-object, food-contact, child-safety, durability, compatibility, or extraction certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon ASIN, black color, V2 model, and 0.3mm nine-prong configuration are visible",
+      "Simple freehand tool works independently of basket diameter",
+      "Five replacement needles and a magnetic storage plate are included",
+      "The narrow handle fits a funnel workflow without a size-specific collar"
+    ],
+    "failureModes": [
+      "No matching current first-party product page was located",
+      "The current similar manufacturer name points to a different rotary size-specific tool",
+      "The metal plate does not enclose or protect exposed needles",
+      "Needles can detach, bend, or be lost during use and replacement",
+      "Amazon contains an erroneous battery field that reduces catalog confidence",
+      "It is redundant with the better-documented V3"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 9,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 8,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 60
+    },
+    "decision": "reject",
+    "decisionReason": "Reject as superseded and insufficiently documented. The exact Amazon child is identifiable, but the current manufacturer page under the similar V2 name is a different rotary product, leaving the manual V2 without current first-party support or a distinct slot beside the V3. Commercial value is 1/5 and cannot rescue the evidence and redundancy failures.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "coffee_rigs:B0D2VT3552",
+    "siteId": "coffee_rigs",
+    "productName": "MHW-3BOMBER YU Series 58mm Cyclone WDT Tool",
+    "model": "T5849-OS",
+    "variant": "Black 58mm press-type rotary tool with 14 0.25mm needles, adjustable depth, and magnetic base, US listing",
+    "asin": "B0D2VT3552",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D2VT3552/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Choosing a compact manual WDT tool with replaceable fine needles and a stable storage method for the Breville Bambino or Bambino Plus funnel workflow without claiming that the accessory guarantees better extraction",
+    "decisionSlot": "compatibility",
+    "bestFor": "No Bambino recommendation; a separate 58mm espresso setup where the owner deliberately wants a large press-type rotary distributor after checking basket depth and magnetic fit",
+    "skipIf": "You use the stock 54mm Bambino or Bambino Plus basket, need a compact handheld tool, want to keep a funnel attached during WDT, or expect the rotary paths to reach every part of the coffee bed",
+    "mainTradeoff": "The fast press-type mechanism has adjustable 0.25mm needles and a magnetic base, but it is explicitly a 58mm fixture, is bulky for a small station, and cannot seat on the stock 54mm Bambino basket",
+    "closestAlternative": "Normcore V3 B0BPCHCZH4 because its freehand use is not constrained by a 58mm collar and it can work inside the existing Bambino funnel",
+    "editorialThesis": "The Cyclone is a distinct fast rotary workflow for 58mm systems, not a candidate for the stock Bambino cluster; nominal WDT function does not override physical basket incompatibility",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0D2VT3552",
+        "note": "Verified exact current identity: B0D2VT3552 is the black MHW-3BOMBER 58mm Cyclone, model T5849-OS and part YU004, with adjustable depth, 14 0.25mm needles, replacement needles, and a magnetic base. The 58mm size excludes a stock 54mm Bambino basket.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manual",
+        "url": "https://manuals.plus/asin/B0D2VT3552.pdf",
+        "note": "Current ASIN-indexed manual summary repeats the exact model T5849-OS, 58mm size, 14 0.25mm needles, magnetic base, and press-type rotary operation. It is a third-party manual host derived from the listing, not independently verified manufacturer documentation.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://coffeegeek.com/blog/new-products/mhw-3bomber-yu-cyclone-wdt-tool/",
+        "note": "Independent hands-on article identifies the YU Cyclone as designed only for 58mm baskets, documents 14 fixed circular needle paths and adjustable depth, and reports that pressing too forcefully can move grounds outward. It is not a Bambino test.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.in/products/638815478-mhw-3bomber-yu-cyclones-wdt-tool-for-58mm-espresso-distribution",
+        "note": "Current owner summaries praise speed and build but report that needle depth may not reach the bottom of a standard basket and that the tool can be less thorough than careful manual WDT. These reports are patterns, not failure rates.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=MHW-3BOMBER%2058mm%20Cyclone%20WDT%20Tool",
+        "note": "Official CPSC product-name recall query returned zero recall records on 2026-08-24. A no-match is not a sharp-object, magnet, food-contact, child-safety, compatibility, durability, or extraction certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Exact ASIN, T5849-OS model, black variant, 58mm size, and needle configuration are verified",
+      "Press-type rotary workflow is faster than careful manual stirring",
+      "Needle depth is adjustable and replacements are included",
+      "Magnetic base gives positive seating on compatible 58mm baskets",
+      "Independent and owner evidence describes real operating limitations"
+    ],
+    "failureModes": [
+      "The 58mm collar cannot seat on the stock 54mm Bambino basket",
+      "It cannot be used through the already selected 54mm dosing funnel",
+      "Fixed circular needle paths may leave untreated areas",
+      "Excess pressure can move grounds toward the basket wall",
+      "Depth may remain too shallow for some baskets",
+      "The large mechanism consumes more counter space than a handheld tool"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 5,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 5,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 47
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for this reader problem. The exact product is well identified, but its 58mm collar physically excludes the stock 54mm Bambino basket and prevents the intended funnel workflow. A distinct mechanism cannot rescue zero compatibility, and commercial value is only 1/5.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
   }
 ]
