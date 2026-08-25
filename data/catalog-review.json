@@ -166,6 +166,18 @@
         "https://www.reddit.com/r/espresso/comments/xwouqo/bbp_with_normcore_spring_loaded_tamper_v4/",
         "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20V4%2053.3mm%20Tamper"
       ]
+    },
+    {
+      "asin": "B0BPCHCZH4",
+      "status": "keep",
+      "reason": "Activation-day evidence still maps ASIN B0BPCHCZH4 to the black Normcore V3 with stand and two fine-needle sets, and Normcore's current page matches the model, material, dimensions, nine positions, and included 0.25mm and 0.3mm needles. Current independent and owner evidence supports the storage and size-agnostic workflow while documenting setup and bending limits. The recommendation makes no extraction or taste promise, requires careful sharp-needle handling, and today's exact-name CPSC query returned no recall records.",
+      "checkedAt": "2026-08-25",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BPCHCZH4",
+        "https://www.normcorewares.com/products/normcore-wdt-distribution-tool-v3",
+        "https://beanandburr.com/accessories/normcore-wdt-tool-review",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20WDT%20Distribution%20Tool%20V3"
+      ]
     }
   ]
 }

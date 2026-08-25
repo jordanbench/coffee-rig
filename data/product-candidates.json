@@ -2281,14 +2281,14 @@
       {
         "type": "amazon-listing",
         "url": "https://www.amazon.com/dp/B0BPCHCZH4",
-        "note": "Verified exact current identity: B0BPCHCZH4 is the black Normcore V3 with stand, model V3, nine needle positions, and included 0.25mm and 0.3mm needle sets. Amazon's extraction language is seller copy and is not treated as an outcome guarantee.",
-        "checkedAt": "2026-08-24"
+        "note": "Reverified exact current identity: B0BPCHCZH4 is the black Normcore V3 with stand, model V3, nine needle positions, and included 0.25mm and 0.3mm needle sets. Amazon's extraction language is seller copy and is not treated as an outcome guarantee.",
+        "checkedAt": "2026-08-25"
       },
       {
         "type": "manufacturer",
         "url": "https://www.normcorewares.com/products/normcore-wdt-distribution-tool-v3",
-        "note": "Verified manufacturer specifications: black is a current V3 color; the 103mm by 31mm anodized-aluminum tool accepts nine 50mm 304-stainless needles and includes nine 0.25mm needles, nine 0.3mm needles, and a stand. The page does not establish taste or extraction outcomes.",
-        "checkedAt": "2026-08-24"
+        "note": "Reverified manufacturer specifications: black is a current V3 color; the 103mm by 31mm anodized-aluminum tool accepts nine 50mm 304-stainless needles and includes nine 0.25mm needles, nine 0.3mm needles, and a stand. The page does not establish taste or extraction outcomes.",
+        "checkedAt": "2026-08-25"
       },
       {
         "type": "independent-review",
@@ -2305,8 +2305,8 @@
       {
         "type": "safety",
         "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20WDT%20Distribution%20Tool%20V3",
-        "note": "Official CPSC product-name recall query returned zero recall records on 2026-08-24. A no-match is not a sharp-object, food-contact, child-safety, durability, compatibility, or extraction certification.",
-        "checkedAt": "2026-08-24"
+        "note": "Official CPSC product-name recall query returned zero recall records on 2026-08-25. A no-match is not a sharp-object, food-contact, child-safety, durability, compatibility, or extraction certification.",
+        "checkedAt": "2026-08-25"
       }
     ],
     "strengths": [
@@ -2344,13 +2344,13 @@
     "decision": "approve",
     "decisionReason": "Approve as the default manual WDT option for a Bambino-plus-funnel workflow, with explicit sharp-needle handling and no extraction promise. Exact Amazon identity, matching current first-party specifications, current independent review, owner failure patterns, and the official recall query clear every hard gate. Commercial value is 1/5 and did not drive the decision.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-08-25",
+      "guidePath": "/guides/budget-home-espresso-setup/"
     },
     "sourceRun": "product-discovery:2026-08-24",
     "researchedAt": "2026-08-24",
-    "lastVerifiedAt": "2026-08-24"
+    "lastVerifiedAt": "2026-08-25"
   },
   {
     "candidateId": "coffee_rigs:B0CL58CKFK",
