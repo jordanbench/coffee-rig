@@ -2701,5 +2701,496 @@
     "sourceRun": "product-discovery:2026-08-24",
     "researchedAt": "2026-08-24",
     "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "coffee_rigs:B09DD6F7M6",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore 53.3mm Puck Screen",
+    "model": "53.3mm",
+    "variant": "Uncoated 316-stainless, 1.7mm-thick, 150-micron multi-layer screen for 54mm baskets",
+    "asin": "B09DD6F7M6",
+    "affiliateUrl": "https://www.amazon.com/dp/B09DD6F7M6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Deciding whether a reusable puck screen reduces enough recurring group-head mess to justify added headspace, hot-disc removal, and after-every-shot cleaning in a stock 54mm Breville Bambino or Bambino Plus basket",
+    "decisionSlot": "maintenance",
+    "bestFor": "A stock-basket Bambino owner who mainly wants to intercept visible grounds and is willing to lower the dose when a dry assembled-basket clearance check fails, after a featured Amazon offer returns",
+    "skipIf": "You already keep the group head clean with a quick wipe, use a dose that leaves little headspace, do not want to rinse a mesh disc after every shot, or need a currently featured Amazon offer",
+    "mainTradeoff": "The established exact 53.3mm screen has direct Bambino owner-fit evidence, but its 1.7mm thickness consumes the most headspace and replaces one cleaning step with immediate rinsing plus periodic deeper cleaning",
+    "closestAlternative": "Normcore 0.8mm B0CMX1LKST for less headspace loss, subject to a current offer and exact-basket clearance check",
+    "editorialThesis": "The 1.7mm Normcore is a maintenance accessory rather than an extraction upgrade; recommend it only after current offer and dry-basket clearance checks, with an explicit rinse-and-deep-clean burden",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09DD6F7M6",
+        "note": "Current exact page identifies B09DD6F7M6 as the 53.3mm, 1.7mm, 150-micron, 316-stainless child. It showed no featured offer on 2026-08-31, so listing identity is verified but activation readiness is not.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/normcore-espresso-puck-screen-316-stainless-steel?variant=43851676811512",
+        "note": "Current Normcore page documents 53.3mm sizing, 1.7mm thickness, 150-micron mesh, hot-water rinsing after each shot, and periodic Cafiza cleaning. Extraction and machine-longevity language remains a manufacturer claim.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/pages/find-your-size",
+        "note": "Current Normcore compatibility guide maps Breville Bambino and Bambino Plus to a 53.3mm puck screen. Nominal mapping does not prove clearance for every stock basket and dose.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://guyana.desertcart.com/products/374765177",
+        "note": "Current exact-ASIN summaries include a 2025 Sage Bambino fit report and easy-rinse comments. Separate Bambino owner evidence reports fit in an aftermarket basket but not the stock basket. These are conflicting anecdotes, not a fit guarantee or failure rate.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "The current official CPSC full recall CSV contained no Normcore or exact-product match on 2026-08-31. A no-match is not a food-contact, burn, compatibility, durability, or extraction certification.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.asinsight.com/report/US/breville-puck-screen",
+        "note": "A current third-party Amazon search tracker placed B09DD6F7M6 first in its August 2026 Breville puck-screen snapshot. This is a directional visibility signal, not verified Amazon sales or evidence of reader fit.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact current ASIN, size, thickness, mesh, and material are identifiable",
+      "Manufacturer maps 53.3mm to Bambino and Bambino Plus",
+      "Exact-ASIN owner evidence includes named Bambino use",
+      "Material and care instructions are explicit",
+      "Current third-party tracking indicates strong demand visibility"
+    ],
+    "failureModes": [
+      "No featured Amazon offer is available",
+      "The 1.7mm thickness can consume insufficient stock-basket headspace",
+      "A hot screen can be difficult to remove without a tool",
+      "The disc can be discarded with the spent puck",
+      "Layered mesh can retain fines and need periodic deeper cleaning",
+      "No source proves guaranteed extraction, taste, or net cleaning-time improvement"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 9,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 78
+    },
+    "decision": "hold",
+    "decisionReason": "Hold despite a 78/100 score. The exact product and evidence ladder support a bounded maintenance comparison, but Amazon exposes no featured offer and the thick screen has basket- and dose-dependent headspace risk. Commercial value is 1/5 and did not affect the hold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "coffee_rigs:B0CMX1LKST",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore 53.3mm Puck Screen, 0.8mm",
+    "model": "53.3mm x 0.8mm",
+    "variant": "Silver uncoated 316-stainless, 0.8mm flat-mesh screen for Breville and Sage 54mm baskets",
+    "asin": "B0CMX1LKST",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CMX1LKST/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Deciding whether a reusable puck screen reduces enough recurring group-head mess to justify added headspace, hot-disc removal, and after-every-shot cleaning in a stock 54mm Breville Bambino or Bambino Plus basket",
+    "decisionSlot": "default",
+    "bestFor": "A stock-basket Bambino owner who wants a thinner reusable screen and is willing to rinse it immediately, after a featured offer returns and the assembled dry basket clears the shower assembly",
+    "skipIf": "You need direct stock-Bambino evidence for this exact 0.8mm child, do not want to wipe or rinse it immediately, or need a currently featured Amazon offer",
+    "mainTradeoff": "It reduces the headspace penalty and is easier to rinse than layered mesh according to owners, but it can still trap coffee and the exact child lacks direct stock-Bambino owner evidence",
+    "closestAlternative": "Normcore 1.7mm B09DD6F7M6 for stronger exact-ASIN Bambino evidence, accepting more headspace and mesh-cleaning burden",
+    "editorialThesis": "The silver 0.8mm child is the strongest default candidate only when a current offer and stock-basket clearance evidence exist; its advantage is lower ownership burden, not a promised extraction gain",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CMX1LKST",
+        "note": "Current Amazon page maps B0CMX1LKST to the silver 53.3mm x 0.8mm child. It showed no featured offer on 2026-08-31, so exact identity is verified but activation readiness is not.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/normcore-ultra-slim-0-8-mm-puck-screen-316-stainless-steel?variant=44255915081976",
+        "note": "Current Normcore family page exposes 53.3mm, uncoated stainless, and 0.8mm options and documents 316 stainless plus rinse, Cafiza, or steam-wand care. It does not map the Amazon ASIN itself.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/pages/find-your-size",
+        "note": "Current Normcore compatibility guide maps Bambino and Bambino Plus to 53.3mm. Nominal size mapping does not prove clearance for the exact stock basket and dose.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.com.eg/products/588947228-normcore-53-3mm-puck-screen-0-8mm-thickness-lower-shower",
+        "note": "Current exact-ASIN summaries report easier cleaning than layered mesh but continued coffee trapping; another 2026 owner says it is easy to clean only when wiped immediately. No exact stock-Bambino pattern was located.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "The current official CPSC full recall CSV contained no Normcore or exact-product match on 2026-08-31. A no-match is not a food-contact, burn, compatibility, durability, or extraction certification.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.asinsight.com/report/US/espresso-filter-screen",
+        "note": "A current third-party Amazon search tracker placed B0CMX1LKST third in its August 2026 espresso-filter-screen snapshot. This is a directional visibility signal, not verified Amazon sales or reader-fit evidence.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact current ASIN, silver color, size, and thickness are verified",
+      "Current manufacturer family page supports materials and care",
+      "Manufacturer maps 53.3mm to Bambino and Bambino Plus",
+      "Thinner construction reduces headspace loss relative to 1.7mm mesh",
+      "Current owner evidence describes the real rinse-versus-trapped-coffee tradeoff"
+    ],
+    "failureModes": [
+      "No featured Amazon offer is available",
+      "No exact stock-Bambino owner pattern was located",
+      "Coffee can remain trapped despite the flat construction",
+      "Immediate wiping or rinsing is still required",
+      "The hot disc needs controlled removal and storage",
+      "No source proves net time saving or extraction improvement"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 25,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 81
+    },
+    "decision": "hold",
+    "decisionReason": "Hold despite the highest score. It is the best-evidenced low-headspace default on paper, but there is no featured Amazon offer and no current owner evidence for this exact child in the stock Bambino basket. Commercial value is 1/5 and did not affect the hold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "coffee_rigs:B0C72LXXJY",
+    "siteId": "coffee_rigs",
+    "productName": "Normcore 53.3mm Ultra-Slim Puck Screen",
+    "model": "53.3mm",
+    "variant": "Black titanium-PVD-coated 316-stainless, single-layer 0.2mm, 200-micron screen",
+    "asin": "B0C72LXXJY",
+    "affiliateUrl": "https://www.amazon.com/dp/B0C72LXXJY/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Deciding whether a reusable puck screen reduces enough recurring group-head mess to justify added headspace, hot-disc removal, and after-every-shot cleaning in a stock 54mm Breville Bambino or Bambino Plus basket",
+    "decisionSlot": "constraint",
+    "bestFor": "A stock-basket Bambino owner with minimal headspace who accepts a bend-prone single layer and mixed cleaning results, after a featured offer returns",
+    "skipIf": "You want a rigid screen, use blank shots with the screen in an empty basket, dislike wet pucks, or need a currently featured Amazon offer",
+    "mainTradeoff": "It consumes almost no headspace and is easy to rinse for some owners, but other exact-ASIN owners report harder cleaning, wet stuck pucks, easy bending, and little practical benefit",
+    "closestAlternative": "Normcore 0.8mm B0CMX1LKST for a sturdier thin screen with less headspace cost than a 1.7mm screen",
+    "editorialThesis": "The 0.2mm child belongs only in a tight-headspace constraint slot; its thinness is meaningful, but mixed cleaning outcomes and easy bending prevent a broad recommendation",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0C72LXXJY",
+        "note": "Current Amazon page maps B0C72LXXJY to the black 53.3mm, 0.2mm, 200-micron titanium-PVD child. It showed no featured offer on 2026-08-31.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/products/normcore-ultra-slim-0-8-mm-puck-screen-316-stainless-steel?variant=44255915081976",
+        "note": "Current Normcore family page exposes 53.3mm, titanium-PVD, and 0.2mm options and documents 316 stainless plus rinse, Cafiza, or steam-wand care. It does not map the Amazon ASIN itself.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.normcorewares.com/pages/find-your-size",
+        "note": "Current Normcore compatibility guide maps Bambino and Bambino Plus to 53.3mm. Nominal size mapping does not prove stock-basket clearance.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.ae/products/538531658-53-3mm-puck-screen-ultra-slim-0-2mm-316-stainless",
+        "note": "Current exact-ASIN summaries include easy-clean and headspace-positive reports alongside reports of wet stuck pucks, more cleaning, easy bending, and damage after an empty-basket extraction. These are anecdotes, not failure rates.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "The current official CPSC full recall CSV contained no Normcore or exact-product match on 2026-08-31. A no-match is not a food-contact, burn, coating, compatibility, durability, or extraction certification.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B0C72LXXJY",
+        "note": "The current listing displayed more than one thousand ratings and recent purchase activity, but these are platform signals only and do not establish stock-Bambino fit or owner satisfaction.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact current ASIN, black color, thickness, mesh, and coating are verified",
+      "Minimal headspace loss is a meaningful constraint-specific difference",
+      "Current manufacturer family page supports materials and care",
+      "Current detailed owner evidence includes both benefits and failures",
+      "The product remains visible in current Amazon demand signals"
+    ],
+    "failureModes": [
+      "No featured Amazon offer is available",
+      "The single layer can bend or warp",
+      "Wet coffee can remain stuck in the basket",
+      "Cleaning can be harder rather than easier for some owners",
+      "The thin disc can be discarded with the puck",
+      "No source proves group-head cleanliness or extraction improvement for a stock Bambino"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 6,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 76
+    },
+    "decision": "hold",
+    "decisionReason": "Hold. The exact ultra-thin child solves headspace best, but the current listing has no featured offer and owner evidence is materially mixed on the actual reader problem: cleaning and handling burden. Commercial value is 1/5 and did not affect the hold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "coffee_rigs:B0D4R74XB7",
+    "siteId": "coffee_rigs",
+    "productName": "IMS Precision Puck Diffuser Screen by E&B Lab with Magnet",
+    "model": "54mm Breville and Sage 800 series / DS53.3",
+    "variant": "53.3mm AISI 301 photo-etched screen with 150-micron membrane and separate magnetic removal pin",
+    "asin": "B0D4R74XB7",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D4R74XB7/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Deciding whether a reusable puck screen reduces enough recurring group-head mess to justify added headspace, hot-disc removal, and after-every-shot cleaning in a stock 54mm Breville Bambino or Bambino Plus basket",
+    "decisionSlot": "upgrade",
+    "bestFor": "A stock-basket Bambino owner who prioritizes a magnetic hot-screen removal tool after the exact hole count and a featured Amazon offer are resolved",
+    "skipIf": "You want a simple low-cost disc, need reconciled exact specifications now, or do not want another loose accessory to store and clean",
+    "mainTradeoff": "The magnet directly addresses hot-disc removal and owners praise it, but Amazon says 257 holes while the current official DS53.3 page says 199 and the exact listing has no featured offer",
+    "closestAlternative": "Normcore 0.8mm B0CMX1LKST for a simpler thin disc without the loose magnet, after its offer and stock-basket evidence gaps clear",
+    "editorialThesis": "The DS53.3 has the clearest removal solution, but a magnetic accessory cannot earn an upgrade slot until its current offer and official hole-count conflict are resolved",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0D4R74XB7",
+        "note": "Current Amazon page maps B0D4R74XB7 to model 54mm Breville and Sage 800 series, part DS53.3, with a magnet and 257-hole claim. It showed no featured offer on 2026-08-31.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.imsfiltri.com/puck-diffuser/DS53.3.html",
+        "note": "Current official IMS page identifies exact SKU DS53.3, 53/53.4/54/54.4mm tamper compatibility, 2.4mm holes, AISI 301 membrane, and 150-micron filtration, but says 199 holes rather than Amazon's 257.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://thepenninecoffeecompany.co.uk/product/ims-precision-puck-diffuser-screen-by-e-b-lab-made-for-54mm-breville-and-sage-espresso-machines-with-magnet",
+        "note": "Current specialist seller names Bambino BES450 and Bambino Plus BES500 and includes owner comments praising magnetic removal and easy rinsing. Seller-hosted reviews are owner reports, not independent tests.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.in/products/633772831-verybarista-ims-precision-puck-diffuser-screen-by-e-and-b",
+        "note": "Current DS-family summaries praise magnetic removal and easy cleaning but also call the accessory expensive or of limited use when the group head is already clean. The page aggregates sizes, so it does not prove exact stock-Bambino fit.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "The current official CPSC full recall CSV contained no IMS, E&B Lab, verybarista, DS53.3, or exact-product match on 2026-08-31. A no-match is not a magnet, burn, food-contact, fit, durability, or extraction certification.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.amazon.com/dp/B0D4R74XB7",
+        "note": "The current listing displayed 45 ratings and recent page-view activity, a limited platform visibility signal that does not establish fit or satisfaction.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon ASIN, model family, DS53.3 part number, and magnet are identifiable",
+      "Current official IMS page supports 53.3mm family identity and membrane details",
+      "A current specialist seller names Bambino and Bambino Plus",
+      "The magnetic pin directly reduces hot-screen removal friction",
+      "Current owner patterns describe removal and cleaning burden"
+    ],
+    "failureModes": [
+      "No featured Amazon offer is available",
+      "Amazon's 257-hole claim conflicts with the official 199-hole specification",
+      "The separate magnet can be lost or provide weak pickup",
+      "Basket and dose still control headspace",
+      "The screen or magnet can be discarded with the puck",
+      "No source verifies an extraction benefit for the stock Bambino basket"
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 14,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 15,
+      "riskAndReturnFit": 7,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 76
+    },
+    "decision": "hold",
+    "decisionReason": "Hold despite a 76/100 score. Magnetic removal is the clearest solution to one workflow burden, but the exact child has no featured offer and conflicts with the current official page on hole count. Commercial value is 1/5 and did not affect the hold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "coffee_rigs:B0CHMKFR75",
+    "siteId": "coffee_rigs",
+    "productName": "MHW-3BOMBER 54mm Puck Screen, 0.8mm",
+    "model": "FG5591M-OS / FG55#DE1 conflict",
+    "variant": "Silver double-layer 0.8mm screen marketed for 53.35mm and 54mm baskets; exact current model mapping unresolved",
+    "asin": "B0CHMKFR75",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CHMKFR75/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Deciding whether a reusable puck screen reduces enough recurring group-head mess to justify added headspace, hot-disc removal, and after-every-shot cleaning in a stock 54mm Breville Bambino or Bambino Plus basket",
+    "decisionSlot": "budget",
+    "bestFor": "No current Coffee Rigs recommendation; potentially a 54mm owner after the US Amazon child, model code, nominal diameter, and exact manufacturer mapping are reconciled",
+    "skipIf": "You need verified stock-Bambino fit, one exact model code, strong delamination evidence, or a current directly retrievable US listing",
+    "mainTradeoff": "A thin double-layer design and low ownership cost versus unresolved exact model and size identity plus owner-reported layer-separation risk",
+    "closestAlternative": "Normcore 0.8mm B0CMX1LKST for a verified exact child and clearer manufacturer family mapping, although it also remains held",
+    "editorialThesis": "The MHW screen cannot fill a budget slot until exact US listing, model, and nominal size identity are reconciled and stock-Bambino evidence addresses durability and cleaning burden",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CHMKFR75",
+        "note": "The canonical US Amazon page could not be retrieved on 2026-08-31, so exact live child identity and offer state remain unverified rather than inferred from product-family evidence.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "amazon-listing",
+        "url": "https://cookgear.co.uk/product/mhw-3bomber-54mm-puck-screen-espresso-metal-coffee-filter-reusable-espresso-filters-for-53-35mm-54mm-portafilter-basket-0-8mm-thickness-coffee-accessories-for-home-barista-model-fg5591m-os/",
+        "note": "Current Amazon-linked mirror maps B0CHMKFR75 to a 54mm/53.35mm, 0.8mm title and model FG5591M-OS. Another accessible Amazon-derived technical table reports FG55#DE1, leaving exact model identity unresolved.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://mhw3bomber.com/products/mhw-3bomber-espresso-puck-screen",
+        "note": "Current manufacturer family page documents a 0.8mm, double-layer, 304-stainless screen with a nominal 53mm option, rinse-and-wipe care, easy returns, and a one-year warranty, but maps neither B0CHMKFR75 nor either model code.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://thewearify.com/best-puck-screen/",
+        "note": "Current specialist comparison describes easy rinsing but summarizes a minority owner pattern of layer separation after weeks. Its extraction and food-safety claims were not adopted as verified facts.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/NinjaLuxeCafe/comments/1vbp8zb/what_type_of_puck_screen_are_you_using/",
+        "note": "A current owner links the FG5591M-OS title for a different 54mm machine, not a stock Bambino. This supports current product-family use but does not resolve exact identity or Bambino fit.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "The current official CPSC full recall CSV contained no MHW-3BOMBER, B0CHMKFR75, FG5591M-OS, FG55#DE1, or exact-product match on 2026-08-31. A no-match is not a safety or durability certification.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://www.cafe-ou-cafe.com/showroom/d/produits-services/mhw-3bomber-ecran-a-puck-54mm-08mm-depaisseur-filtre-en-acier-inoxydable-180mm-pour-porte-filtre-espresso-54mm-accessoires-barista-ecran-a-puck-pour-espresso-modele-fg5591m-os-54mm-silver",
+        "note": "A current Amazon-derived product page shows substantial rating volume for B0CHMKFR75, but its conflicting FG55#DE1 table demonstrates why demand cannot rescue exact-model uncertainty.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "A current Amazon-indexed ASIN exists",
+      "The 0.8mm construction addresses headspace better than thick mesh",
+      "A current official family page documents material and care",
+      "Current owner and specialist sources expose real cleaning and durability patterns",
+      "The manufacturer advertises a one-year family-level warranty"
+    ],
+    "failureModes": [
+      "The US Amazon page was blocked during exact verification",
+      "FG5591M-OS conflicts with an Amazon-derived FG55#DE1 model field",
+      "53mm manufacturer naming conflicts with 53.35mm and 54mm seller naming",
+      "No exact stock-Bambino owner evidence was located",
+      "Double layers may trap fines or separate",
+      "Extraction, food-contact, and safety claims remain unsupported for this exact child"
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 10,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 6,
+      "demandSignal": 4,
+      "commercialValue": 1,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject. The exact US child could not be read, accessible sources disagree on model and nominal size, and no exact stock-Bambino ownership evidence resolves the mapping. At 58/100 it does not qualify for hold; commercial value is 1/5 and cannot rescue identity and durability gaps.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
   }
 ]
