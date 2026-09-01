@@ -16,6 +16,7 @@ Coffee Rigs helps home baristas choose grinders, scales, brewers, and espresso a
 - `/guides/best-espresso-grinders-under-200/` - Best Budget Espresso Grinders Before Prime Day
 - `/guides/baratza-encore-esp-vs-fellow-opus/` - Baratza Encore ESP vs Fellow Opus
 - `/guides/budget-home-espresso-setup/` - Best Small-Kitchen Espresso Setup for Beginners
+- `/guides/breville-bambino-vs-bambino-plus/` - Breville Bambino vs Bambino Plus
 - `/guides/best-coffee-scale-for-pour-over/` - Best Coffee Scale for Pour Over Before Prime Day
 - `/guides/clean-burr-grinder/` - How to Clean a Burr Grinder Without Making Coffee Worse
 - `/guides/how-to-choose-your-first-burr-grinder/` - How to Choose Your First Burr Grinder
