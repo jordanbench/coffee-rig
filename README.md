@@ -15,13 +15,15 @@ Coffee Rigs helps home baristas choose grinders, scales, brewers, and espresso a
 
 - `/guides/best-espresso-grinders-under-200/` - Best Budget Espresso Grinders Before Prime Day
 - `/guides/baratza-encore-esp-vs-fellow-opus/` - Baratza Encore ESP vs Fellow Opus
-- `/guides/budget-home-espresso-setup/` - How to Build a Budget Home Espresso Setup
+- `/guides/budget-home-espresso-setup/` - Best Small-Kitchen Espresso Setup for Beginners
+- `/guides/breville-bambino-vs-bambino-plus/` - Breville Bambino vs Bambino Plus
 - `/guides/best-coffee-scale-for-pour-over/` - Best Coffee Scale for Pour Over Before Prime Day
 - `/guides/clean-burr-grinder/` - How to Clean a Burr Grinder Without Making Coffee Worse
 - `/guides/how-to-choose-your-first-burr-grinder/` - How to Choose Your First Burr Grinder
+- `/guides/best-coffee-grinder-small-kitchens/` - Best Coffee Grinders for Small Kitchens: Quiet and Electric Picks
 - `/guides/best-compact-coffee-makers-small-kitchens/` - Best Compact Coffee Makers for Small Kitchens
 - `/guides/milk-frother-for-oat-milk/` - Best Milk Frother for Oat Milk at Home
-- `/guides/coffee-setup-for-dorm-room/` - Coffee Setup for a Dorm Room or Tiny Apartment
+- `/guides/coffee-setup-for-dorm-room/` - Best Coffee Setup for a Dorm Room or Tiny Apartment
 - `/guides/pour-over-vs-french-press/` - Pour Over vs French Press for Beginners
 - `/guides/best-coffee-gifts-under-50/` - Useful Coffee Gifts for Small Budgets
 - `/guides/coffee-station-maintenance-checklist/` - Coffee Station Maintenance Checklist
@@ -32,6 +34,9 @@ Trust pages: `/about/`, `/contact/`, `/privacy/`, and `/affiliate-disclosure/`.
 
 ```bash
 npm run check
+npm run audit:catalog
+npm run validate:candidates
+npm run sync:products
 npm run report:weekly
 npm run send:admin-pulse
 ```

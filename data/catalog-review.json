@@ -1,0 +1,183 @@
+{
+  "reviewedAt": "2026-09-03",
+  "products": [
+    {
+      "asin": "B07QMY8GLX",
+      "status": "retire-review",
+      "reason": "The catalog promises an OXO Brew grinder, but today's exact Amazon response still identifies a Baratza Virtuoso+ ZCG587BLK. OXO continues to document and support its conical-burr grinder, now under current SKU 8722600B, so the starter filter-grinder need remains useful; this ASIN cannot deliver that product and every placement needs human removal review before a separately researched exact OXO listing is considered.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07QMY8GLX",
+        "https://www.oxo.com/conical-burr-coffee-grinder-1.html?color=Silver",
+        "https://www.oxo.com/media/wysiwyg/PDF_Files/OXO_Brew_8717000_Booklet.pdf",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=OXO%20Brew%20Conical%20Burr%20Coffee%20Grinder"
+      ]
+    },
+    {
+      "asin": "B08V8N3Y4Q",
+      "status": "retire-review",
+      "reason": "Today's exact Amazon response still renders an unrelated leather trucker hat rather than a Fellow grinder. Fellow's current Opus 2 has a materially revised 48 mm burr set, stepless adjustment, and retention path, so both the destination and the product-generation evidence behind this recommendation are stale; remove the broken link only after human review and assess Opus 2 as a new exact candidate rather than silently substituting it.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B08V8N3Y4Q",
+        "https://fellowproducts.com/collections/espresso/products/opus-2-conical-burr-grinder",
+        "https://help.fellowproducts.com/hc/en-us/articles/48922628360731-What-s-new-with-Opus-2",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Fellow%20Opus%20Conical%20Burr%20Grinder"
+      ]
+    },
+    {
+      "asin": "B0B6GLYY9X",
+      "status": "retire-review",
+      "reason": "The exact Amazon destination still returns Page Not Found. Greater Goods currently documents its Premium Coffee Scale as SKU 0460, and the company's 2025 CPSC kitchen-scale recall names other model numbers rather than 0460, but no current evidence ties the active catalog ASIN to that supported coffee scale; human-review removal is required and any replacement needs a newly verified exact ASIN.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0B6GLYY9X",
+        "https://shop.greatergoods.com/products/premium-coffee-scale-onyx-black",
+        "https://www.cpsc.gov/Recalls/2025/Greater-Goods-Recalls-Digital-Kitchen-Scales-Due-to-Ingestion-Hazard-Violations-of-Reeses-Law-Federal-Safety-Regulations-for-Consumer-Products-with-Coin-Batteries-and-Child-Resistant-Coin-Battery-Packaging",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Greater%20Goods%20Digital%20Coffee%20Scale"
+      ]
+    },
+    {
+      "asin": "B0BKRBR3BZ",
+      "status": "retire-review",
+      "reason": "The catalog names Hario's V60 Drip Coffee Decanter, but today's exact Amazon response still identifies a MiiCoffee Nano espresso scale. Hario continues to document the VDD-02B decanter and its 1-4 cup heatproof-glass workflow, so the brewer decision slot remains useful, but this ASIN is an identity mismatch and all recommendations need human removal review before a correctly verified decanter candidate is added.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BKRBR3BZ",
+        "https://www.hario-usa.com/products/v60-drip-decanter",
+        "https://www.reddit.com/r/pourover/comments/1v2bubs/has_anyones_v60_decanter_cracked_during_brewing/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Hario%20V60%20Drip%20Coffee%20Decanter"
+      ]
+    },
+    {
+      "asin": "B07CNG6RM7",
+      "status": "retire-review",
+      "reason": "The exact Amazon listing still matches the Bodum Bistro 11870-01US and its manual remains available, but a May 2026 independent oat-milk test still does not recommend it: one-function controls and thin, short-lived oat foam weaken the guide's core promise. Owner reports continue to flag burned residue, difficult non-immersible cleanup, thermostat cycling, and whisk or motor failures, while current multi-mode alternatives offer meaningfully better hot, cold, and nondairy reader value.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07CNG6RM7",
+        "https://d9pl0lig74xnv.cloudfront.net/product_manuals/0/5/05-11870_1.pdf",
+        "https://www.bonappetit.com/story/best-milk-frothers",
+        "https://www.ebay.com/urw/BODUM-11870-01US-Bistro-Milk-Frother-Black/product-reviews/16044142728",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Bodum%20Bistro%20Electric%20Milk%20Frother"
+      ]
+    },
+    {
+      "asin": "B00004SPEU",
+      "status": "retire-review",
+      "reason": "Today's exact Amazon response still identifies a KRUPS blade grinder rather than Urnex Cafiza cleaner. Urnex continues to publish Cafiza Powder directions and current safety data, preserving the maintenance need but not this destination; the ASIN needs human removal review, and any replacement must verify the exact package while keeping machine-manufacturer cleaning instructions authoritative.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B00004SPEU",
+        "https://urnex.com/cafiza-powder",
+        "https://urnex.com/sds",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Urnex%20Cafiza%20Espresso%20Machine%20Cleaner"
+      ]
+    },
+    {
+      "asin": "B0B1JPPG2L",
+      "status": "keep",
+      "reason": "Today's exact Amazon page still identifies the brushed-stainless Breville Bambino BES450, and Breville's current product hub and manual continue to cover the 54 mm manual-milk workflow, cleaning, troubleshooting, parts, warranty, and repair. Current owner complaints about priming, flow, and support remain anecdotal rather than attributable failure rates; they reinforce existing maintenance and serviceability caveats without displacing this compact default slot, and no reviewed candidate offers meaningfully better fit without changing budget or workflow.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0B1JPPG2L",
+        "https://www.breville.com/en-us/producthub/bes450",
+        "https://assets.breville.com/BES450/BES450_USCM_IB_M26_LR.pdf",
+        "https://www.reddit.com/r/breville/comments/1vfl6jo/horrible_customer_service_experience_bambino/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Breville%20Bambino%20BES450"
+      ]
+    },
+    {
+      "asin": "B07JVD78TT",
+      "status": "keep",
+      "reason": "Today's exact Amazon page still matches the brushed-stainless Breville Bambino Plus BES500, and Breville continues to publish model-specific automatic-milk, cleaning, troubleshooting, parts, warranty, and repair support. Owner reports describing cleaning-cycle, short-shot, and support friction do not establish incidence and are bounded by the guide's added-complexity caveat; the hands-free milk workflow remains meaningfully distinct from the regular Bambino and no reviewed replacement improves that same slot cleanly.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07JVD78TT",
+        "https://www.breville.com/en-us/producthub/bes500",
+        "https://assets.breville.com/BES500/BES500_USCM_IB_X25_LR.pdf",
+        "https://www.reddit.com/r/BrevilleCoffee/comments/1urqrzo/bambino_plus_cleaning_cycle_issue/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Breville%20Bambino%20Plus%20BES500"
+      ]
+    },
+    {
+      "asin": "B0CC4Z32F8",
+      "status": "keep",
+      "reason": "Today's exact Amazon listing still matches the black TIMEMORE Chestnut C3S Pro with folding handle, and TIMEMORE's current C3 family page and manual center continue to document the 20 g C3 S Pro and classic internal adjustment. Independent capacity, manual-effort, and coarse espresso-step limits remain disclosed and preserve its quiet one-cup filter slot; the held 1Zpresso and KINGrinder alternatives still have exact-variant conflicts rather than a meaningfully stronger replacement case.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0CC4Z32F8",
+        "https://www.timemore.com/collections/coffee-grinder-manual/products/c3-series",
+        "https://www.timemore.com/pages/download-center",
+        "https://www.coffeeness.de/timemore-chestnut-c3s-pro-test/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=TIMEMORE%20Chestnut%20C3S%20Pro"
+      ]
+    },
+    {
+      "asin": "B0D7378WJL",
+      "status": "keep",
+      "reason": "Today's exact Amazon page and current WACACO page still agree on the black Exagram Pro, compact 90 x 95 mm body, rechargeable power, espresso mode, and carrying box. Independent and owner evidence continues to support Bambino-sized drip-tray fit while repeating the disclosed touch-control movement, uncovered USB-C port, no IP rating, and automatic-timer limits; held alternatives still lack clean exact-variant or first-party evidence, so none is meaningfully better for this slot.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0D7378WJL",
+        "https://www.wacaco.com/products/exagram-pro",
+        "https://www.tomsguide.com/home/coffee-makers/wacaco-exagram-pro-coffee-scale-review",
+        "https://www.reddit.com/r/espresso/comments/1v9pe1x/new_espresso_scales_for_50_in_the_uk/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=WACACO%20Exagram%20Pro"
+      ]
+    },
+    {
+      "asin": "B0BPBD7N2L",
+      "status": "keep",
+      "reason": "Today's exact Amazon page still resolves to Breville Dosing Funnel 54 model BEA201NEU and names Bambino BES450 and Bambino Plus BES500 compatibility. Breville continues to document the twist-lock dose-and-tamp workflow, while owner evidence supports less mess on a stock Bambino and separately bounds binding risk on aftermarket portafilters; it remains the stronger documented stock-portafilter default rather than a universal 54 mm recommendation.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BPBD7N2L",
+        "https://www.breville.com/en-us/product/bea201neu0zna1",
+        "https://breville-production-aem-assets.s3.us-west-2.amazonaws.com/BEA201/BEA201_USCM_WEBONLY_IB_B22_FA_LR.pdf",
+        "https://www.reddit.com/r/espresso/comments/1rvklit/bambino_df54_best_bang_for_my_buck_first_station/",
+        "https://www.reddit.com/r/espresso/comments/16og8zg/breville_dosing_funnel_gets_stuck_on_normcore/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Breville%20Dosing%20Funnel"
+      ]
+    },
+    {
+      "asin": "B0BVR5QV4Q",
+      "status": "keep",
+      "reason": "Today's Amazon response retains current ASIN B0BVR5QV4Q and identifies the exact black 54 mm Normcore Magnetic Dosing Funnel V2, even though Amazon's canonical link points to a sibling listing for the same named product. Normcore still maps the 54 mm funnel to Bambino portafilters, and owner evidence continues to bound basket-dependent magnetic hold and rounded-rim fit; the distinct outer-rim WDT slot remains valid when the reader confirms a flat, sufficiently magnetic basket.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BVR5QV4Q",
+        "https://www.normcorewares.com/products/normcore-magnetic-dosing-funnel-v2?variant=45870949204216",
+        "https://www.normcorewares.com/pages/find-your-size",
+        "https://www.reddit.com/r/espresso/comments/1jadvd4/dosing_funnel_what_is_everyone_using/",
+        "https://coffeetime.freeflarum.com/d/2530-dosing-funnel",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%2054mm%20Magnetic%20Dosing%20Funnel"
+      ]
+    },
+    {
+      "asin": "B09C5PWJXL",
+      "status": "keep",
+      "reason": "Today's exact Amazon page still identifies the black flat-base Normcore V4 in 53.3 mm, and Normcore continues to document the selected size, rim-leveling plate, interchangeable springs, and care limits. Owner patterns support Bambino use while preserving the required empty-basket clearance check for tapered baskets; held and rejected alternatives retain model-code, compatibility, or redundancy problems rather than a meaningfully better default case.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B09C5PWJXL",
+        "https://www.normcorewares.com/products/normcore-spring-loaded-tamper-v4?variant=40443114946756",
+        "https://www.reddit.com/r/espresso/comments/1ker6gc/what_accessories_should_i_get_for_my_bambino_plus/",
+        "https://www.reddit.com/r/espresso/comments/xwouqo/bbp_with_normcore_spring_loaded_tamper_v4/",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20V4%2053.3mm%20Tamper"
+      ]
+    },
+    {
+      "asin": "B0BPCHCZH4",
+      "status": "keep",
+      "reason": "Today's exact Amazon page still maps B0BPCHCZH4 to the Normcore V3 with stand and two fine-needle sets, and Normcore's current page matches the nine-position tool, included 0.25 mm and 0.3 mm needles, and storage workflow. Current independent and owner evidence supports the size-agnostic funnel workflow while bounding installation, bending, and exposed-needle risks; the held retractable alternative still has an unresolved exact-color and model-code conflict.",
+      "checkedAt": "2026-09-03",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BPCHCZH4",
+        "https://www.normcorewares.com/products/normcore-wdt-distribution-tool-v3",
+        "https://beanandburr.com/accessories/normcore-wdt-tool-review",
+        "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=Normcore%20WDT%20Distribution%20Tool%20V3"
+      ]
+    }
+  ]
+}
